@@ -78,9 +78,6 @@ equipo_local        <- "Argentina"   # <-- CAMBIA el equipo local
 equipo_visitante    <- "Francia"     # <-- CAMBIA el equipo visitante
 
 # Condiciones del partido
-clima_partido           <- "Soleado"     # Soleado / Lluvia / Nublado / Frio / Caluroso
-temperatura_partido     <- 22            # Temperatura en grados Celsius
-humedad_partido         <- 55            # Humedad relativa en %
 tipo_partido            <- "Oficial"     # Oficial / Amistoso / Eliminatoria / Copa / Liga de Naciones
 dias_descanso_local     <- 7             # Días de descanso del equipo local desde su último partido
 dias_descanso_visitante <- 7             # Días de descanso del equipo visitante
@@ -130,7 +127,6 @@ if (extension_archivo == "csv") {
 # goles_contra    - Goles recibidos por el equipo
 # resultado       - "Victoria", "Empate" o "Derrota"
 # tipo_partido    - Tipo de competición
-# clima           - Condición climática (como texto: Soleado, Lluvia, etc.)
 # temperatura     - Temperatura en C (numérico)
 # humedad         - Humedad en % (numérico)
 # dias_descanso   - Días desde el último partido
@@ -201,7 +197,6 @@ if ("local_visitante" %in% names(datos)) {
 }
 
 if ("tipo_partido" %in% names(datos))  datos$tipo_partido <- as.factor(trimws(datos$tipo_partido))
-if ("clima" %in% names(datos))         datos$clima <- as.factor(trimws(datos$clima))
 if ("equipo" %in% names(datos))        datos$equipo <- trimws(datos$equipo)
 if ("rival" %in% names(datos))         datos$rival  <- trimws(datos$rival)
 
@@ -300,14 +295,6 @@ calcular_estadisticas_equipo <- function(df, nombre_equipo, n = 10) {
     prom_gf_ofic <- prom_gf
   }
 
-  # --- Rendimiento por clima (proporción frente al promedio general) ---
-  factor_por_clima <- function(tipo_clima) {
-    if (!("clima" %in% names(df_eq))) return(1.0)
-    df_clim <- df_eq[as.character(df_eq$clima) == tipo_clima, ]
-    if (nrow(df_clim) == 0 || prom_gf == 0) return(1.0)
-    mean(df_clim$goles_favor, na.rm = TRUE) / prom_gf
-  }
-
   # --- Variables avanzadas opcionales (con valor por defecto si no existen) ---
   prom_tiros     <- if ("tiros_puerta" %in% names(df_eq)) mean(df_eq$tiros_puerta,  na.rm = TRUE) else NA_real_
   prom_posesion  <- if ("posesion"     %in% names(df_eq)) mean(df_eq$posesion,       na.rm = TRUE) else NA_real_
@@ -347,7 +334,6 @@ calcular_estadisticas_equipo <- function(df, nombre_equipo, n = 10) {
     prom_lesion      = prom_lesion,
     prom_suspen      = prom_suspen,
     prom_descanso    = prom_descanso,
-    factor_clima_fn  = factor_por_clima,
     datos            = df_eq
   )
 }
@@ -397,22 +383,6 @@ if (nrow(h2h_datos) > 0) {
   prom_h2h_V <- stats_V$prom_gf
   peso_h2h   <- 0
 }
-
-
-# ============================================================
-# BLOQUE 9: AJUSTE POR CLIMA
-# ============================================================
-# El clima se trata como una etiqueta de texto (ej. "Soleado",
-# "Lluvia"). Se compara el rendimiento del equipo en partidos
-# con ese mismo clima vs. su promedio general.
-
-cat("\n=== PASO 6: AJUSTE POR CLIMA ===\n")
-
-factor_clima_L <- stats_L$factor_clima_fn(clima_partido)
-factor_clima_V <- stats_V$factor_clima_fn(clima_partido)
-
-cat(sprintf("  Factor clima (%s) para %s: %.3f\n", clima_partido, equipo_local, factor_clima_L))
-cat(sprintf("  Factor clima (%s) para %s: %.3f\n", clima_partido, equipo_visitante, factor_clima_V))
 
 
 # ============================================================
@@ -474,7 +444,7 @@ datos_reg_ajuste$residuos  <- residuals(modelo_regresion)
 # ============================================================
 # lambda representa la tasa media de goles esperados para
 # cada equipo. Es el parámetro clave del proceso de Poisson.
-# Se combina: estadísticas recientes + H2H + ajuste de clima
+# Se combina: estadísticas recientes + H2H
 # + ventaja de localía + penalización por fatiga/lesiones.
 
 cat("\n=== PASO 8: CALCULANDO LAMBDAS (TASAS DE ANOTACION) ===\n")
@@ -491,7 +461,7 @@ media_gc_global <- mean(datos$goles_contra, na.rm = TRUE)
 factor_def_V <- if (media_gc_global > 0) stats_V$prom_gc / media_gc_global else 1
 
 # Aplicar factores
-lambda_local <- base_L * factor_def_V * factor_clima_L
+lambda_local <- base_L * factor_def_V
 
 # Ajuste por forma reciente (forma alta > 1.5 pts promedio ponderado = bonus)
 if (stats_L$forma > 1.8) lambda_local <- lambda_local * 1.06
@@ -520,7 +490,7 @@ factor_def_L <- if (media_gc_global > 0) stats_L$prom_gc / media_gc_global else 
 # Penalización de visita (el visitante anota ~15% menos en promedio)
 base_V <- base_V * 0.85
 
-lambda_visitante <- base_V * factor_def_L * factor_clima_V
+lambda_visitante <- base_V * factor_def_L
 
 if (stats_V$forma > 1.8) lambda_visitante <- lambda_visitante * 1.06
 if (stats_V$forma < 0.8) lambda_visitante <- lambda_visitante * 0.92
@@ -956,9 +926,6 @@ cat(sprintf("  Indice ofensivo      :  %-18.3f  %.3f\n", stats_L$indice_ofensivo
 cat(sprintf("  Indice defensivo     :  %-18.3f  %.3f\n", stats_L$indice_defensivo, stats_V$indice_defensivo))
 
 cat("\n--- CONDICIONES DEL PARTIDO ---\n")
-cat(sprintf("  Clima          : %s\n",   clima_partido))
-cat(sprintf("  Temperatura    : %d C\n", temperatura_partido))
-cat(sprintf("  Humedad        : %d%%\n", humedad_partido))
 cat(sprintf("  Tipo de partido: %s\n",   tipo_partido))
 cat(sprintf("  Descanso local : %d dias\n",     dias_descanso_local))
 cat(sprintf("  Descanso visit.: %d dias\n",     dias_descanso_visitante))
