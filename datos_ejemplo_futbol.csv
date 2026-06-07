@@ -1,0 +1,21 @@
+equipo,rival,fecha,local_visitante,goles_favor,goles_contra,resultado,tipo_partido,clima,temperatura,humedad,dias_descanso,tiros_puerta,posesion,lesionados,suspendidos
+Real Madrid,Atletico,2024-11-09,Local,3,1,Victoria,Liga,Soleado,20,50,7,8,58,1,0
+Real Madrid,Sevilla,2024-11-02,Visitante,2,0,Victoria,Liga,Nublado,17,60,7,7,52,2,0
+Real Madrid,Valencia,2024-10-26,Local,4,2,Victoria,Liga,Soleado,22,55,5,9,60,0,1
+Real Madrid,Villarreal,2024-10-19,Visitante,1,1,Empate,Liga,Lluvia,14,80,6,5,45,1,0
+Real Madrid,Osasuna,2024-10-06,Local,3,0,Victoria,Liga,Soleado,19,45,12,10,65,0,0
+Real Madrid,Getafe,2024-09-28,Visitante,2,1,Victoria,Copa,Frio,12,65,4,6,50,2,1
+Real Madrid,Eibar,2024-09-22,Local,5,1,Victoria,Liga,Soleado,21,48,7,12,68,0,0
+Real Madrid,Mallorca,2024-09-15,Visitante,0,0,Empate,Liga,Nublado,18,70,7,4,42,1,0
+Real Madrid,Celta,2024-09-01,Local,2,3,Derrota,Liga,Lluvia,16,75,13,6,55,3,1
+Real Madrid,Granada,2024-08-25,Visitante,1,0,Victoria,Liga,Soleado,25,40,7,5,48,0,0
+Barcelona,Real Madrid,2024-11-09,Visitante,1,3,Derrota,Liga,Soleado,20,50,7,6,55,2,0
+Barcelona,Girona,2024-11-02,Local,4,1,Victoria,Liga,Nublado,15,60,7,9,65,0,0
+Barcelona,Betis,2024-10-26,Visitante,2,2,Empate,Liga,Soleado,22,55,5,7,58,1,0
+Barcelona,Espanyol,2024-10-19,Local,3,0,Victoria,Liga,Nublado,16,65,6,8,70,0,1
+Barcelona,Athletic,2024-10-06,Visitante,1,2,Derrota,Liga,Lluvia,13,78,12,5,48,2,0
+Barcelona,Valladolid,2024-09-28,Local,5,0,Victoria,Copa,Soleado,20,42,4,11,72,0,0
+Barcelona,Rayo,2024-09-22,Visitante,2,1,Victoria,Liga,Nublado,17,68,7,6,54,1,0
+Barcelona,Almeria,2024-09-15,Local,3,1,Victoria,Liga,Soleado,23,45,7,9,68,0,0
+Barcelona,Sociedad,2024-09-01,Visitante,0,1,Derrota,Liga,Frio,11,72,13,4,46,2,1
+Barcelona,Las Palmas,2024-08-25,Local,2,0,Victoria,Liga,Soleado,24,40,7,7,63,0,0
