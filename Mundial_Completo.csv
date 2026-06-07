@@ -1,0 +1,961 @@
+"equipo","rival","fecha","local_visitante","goles_favor","goles_contra","resultado","tipo_partido","clima","temperatura","humedad","dias_descanso","tiros_puerta","posesion","lesionados","suspendidos"
+"Alemania","Escocia",2026-05-31,"Local",0,1,"Derrota","Oficial","Nublado",18,69,7,6,56,3,0
+"Alemania","Noruega",2026-05-17,"Local",1,1,"Empate","Liga de Naciones","Soleado",18,37,9,4,47,0,0
+"Alemania","Portugal",2026-05-06,"Visitante",1,1,"Empate","Amistoso","Lluvia",16,81,6,7,48,3,0
+"Alemania","Bélgica",2026-04-26,"Local",1,1,"Empate","Eliminatoria","Soleado",29,41,6,6,51,1,0
+"Alemania","Suiza",2026-04-14,"Visitante",0,1,"Derrota","Amistoso","Caluroso",36,42,7,5,56,1,0
+"Alemania","República Checa",2026-04-04,"Local",2,1,"Victoria","Eliminatoria","Soleado",28,56,7,10,56,3,0
+"Alemania","Inglaterra",2026-03-25,"Local",1,2,"Derrota","Eliminatoria","Frio",8,67,4,6,51,1,0
+"Alemania","Jordania",2026-03-14,"Visitante",3,3,"Empate","Eliminatoria","Soleado",29,38,5,10,60,4,0
+"Alemania","Marruecos",2026-03-03,"Visitante",0,4,"Derrota","Eliminatoria","Lluvia",16,79,5,8,35,1,1
+"Alemania","Senegal",2026-02-18,"Local",3,0,"Victoria","Eliminatoria","Soleado",18,47,3,9,57,0,0
+"Arabia Saudita","Corea del Sur",2026-05-28,"Visitante",0,4,"Derrota","Oficial","Nublado",18,64,8,4,48,1,1
+"Arabia Saudita","Irán",2026-05-18,"Visitante",1,1,"Empate","Liga de Naciones","Lluvia",20,78,8,6,52,1,1
+"Arabia Saudita","Irak",2026-05-06,"Local",2,2,"Empate","Oficial","Nublado",21,74,4,6,54,0,0
+"Arabia Saudita","Jordania",2026-04-28,"Local",2,0,"Victoria","Amistoso","Soleado",27,37,8,7,54,1,0
+"Arabia Saudita","Australia",2026-04-15,"Local",3,1,"Victoria","Copa","Soleado",20,66,9,6,49,0,0
+"Arabia Saudita","Japón",2026-04-05,"Visitante",0,2,"Derrota","Eliminatoria","Soleado",30,50,3,3,50,2,1
+"Arabia Saudita","Uzbekistán",2026-03-26,"Local",1,0,"Victoria","Oficial","Nublado",16,60,9,6,53,0,0
+"Arabia Saudita","Austria",2026-03-13,"Visitante",1,0,"Victoria","Copa","Caluroso",29,56,8,3,45,1,0
+"Arabia Saudita","Países Bajos",2026-03-03,"Local",4,2,"Victoria","Copa","Soleado",26,61,9,8,56,1,0
+"Arabia Saudita","República Checa",2026-02-18,"Local",3,1,"Victoria","Eliminatoria","Nublado",21,81,9,7,47,3,0
+"Argelia","Ghana",2026-05-28,"Local",3,0,"Victoria","Copa","Soleado",21,63,8,9,51,1,0
+"Argelia","Sudáfrica",2026-05-18,"Visitante",1,1,"Empate","Copa","Soleado",27,47,7,8,47,1,0
+"Argelia","República Democrática del Congo",2026-05-09,"Local",2,0,"Victoria","Copa","Nublado",16,85,8,8,46,1,0
+"Argelia","Túnez",2026-04-27,"Local",3,0,"Victoria","Oficial","Soleado",29,63,5,8,56,0,0
+"Argelia","Senegal",2026-04-14,"Local",1,1,"Empate","Eliminatoria","Caluroso",34,51,8,5,49,3,0
+"Argelia","Costa de Marfil",2026-04-06,"Local",1,2,"Derrota","Liga de Naciones","Soleado",18,50,6,6,58,0,0
+"Argelia","Egipto",2026-03-26,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",27,42,6,5,49,1,0
+"Argelia","Bosnia y Herzegovina",2026-03-14,"Local",0,1,"Derrota","Eliminatoria","Lluvia",19,74,3,7,62,0,0
+"Argelia","Irán",2026-03-04,"Local",3,3,"Empate","Eliminatoria","Soleado",25,56,5,7,54,1,0
+"Argelia","Colombia",2026-02-21,"Visitante",1,1,"Empate","Liga de Naciones","Soleado",21,67,9,5,53,2,0
+"Argentina","Paraguay",2026-05-29,"Visitante",1,1,"Empate","Amistoso","Nublado",18,56,5,7,53,0,1
+"Argentina","Uruguay",2026-05-20,"Local",4,0,"Victoria","Copa","Nublado",17,85,4,9,61,1,0
+"Argentina","Brasil",2026-05-06,"Local",1,2,"Derrota","Liga de Naciones","Soleado",28,55,4,8,55,0,1
+"Argentina","Colombia",2026-04-26,"Visitante",0,2,"Derrota","Copa","Lluvia",19,78,6,6,56,1,0
+"Argentina","Ecuador",2026-04-17,"Local",4,1,"Victoria","Amistoso","Soleado",18,67,4,11,54,3,0
+"Argentina","Cabo Verde",2026-04-04,"Visitante",3,0,"Victoria","Oficial","Soleado",25,69,4,10,45,0,2
+"Argentina","Canadá",2026-03-23,"Local",1,0,"Victoria","Amistoso","Soleado",28,50,3,8,57,2,0
+"Argentina","Alemania",2026-03-15,"Visitante",1,2,"Derrota","Oficial","Soleado",25,66,7,6,58,0,1
+"Argentina","Australia",2026-03-01,"Visitante",3,1,"Victoria","Eliminatoria","Soleado",23,40,9,12,34,1,0
+"Argentina","Noruega",2026-02-18,"Visitante",3,0,"Victoria","Eliminatoria","Nublado",24,55,3,9,50,2,0
+"Australia","Arabia Saudita",2026-05-29,"Local",2,0,"Victoria","Amistoso","Soleado",27,65,8,8,63,0,0
+"Australia","Catar",2026-05-17,"Local",1,2,"Derrota","Eliminatoria","Soleado",30,55,6,8,52,3,2
+"Australia","Uzbekistán",2026-05-07,"Visitante",2,2,"Empate","Copa","Soleado",26,61,6,9,42,0,0
+"Australia","Jordania",2026-04-27,"Local",2,1,"Victoria","Copa","Soleado",30,48,7,8,57,0,1
+"Australia","Japón",2026-04-16,"Local",0,3,"Derrota","Amistoso","Soleado",25,44,5,5,55,0,0
+"Australia","Irak",2026-04-04,"Visitante",0,0,"Empate","Amistoso","Soleado",26,38,7,5,36,0,0
+"Australia","Irán",2026-03-23,"Visitante",4,0,"Victoria","Liga de Naciones","Soleado",18,43,9,12,43,1,1
+"Australia","Canadá",2026-03-13,"Local",3,0,"Victoria","Copa","Caluroso",31,56,4,10,50,3,1
+"Australia","Brasil",2026-03-02,"Visitante",0,2,"Derrota","Eliminatoria","Soleado",20,57,3,6,47,1,0
+"Australia","República Democrática del Congo",2026-02-18,"Visitante",3,1,"Victoria","Liga de Naciones","Soleado",25,59,4,9,51,1,1
+"Austria","Alemania",2026-05-31,"Local",0,2,"Derrota","Eliminatoria","Nublado",15,78,8,5,59,0,0
+"Austria","Croacia",2026-05-17,"Local",1,0,"Victoria","Eliminatoria","Soleado",30,65,6,5,47,1,0
+"Austria","República Checa",2026-05-07,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",19,54,3,7,45,1,0
+"Austria","Noruega",2026-04-27,"Visitante",2,3,"Derrota","Eliminatoria","Frio",5,56,4,7,57,1,0
+"Austria","España",2026-04-15,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",18,49,4,4,40,2,0
+"Austria","Turquía",2026-04-05,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",18,77,3,7,48,0,0
+"Austria","Francia",2026-03-26,"Visitante",0,4,"Derrota","Eliminatoria","Caluroso",36,62,5,6,48,2,1
+"Austria","Catar",2026-03-15,"Visitante",1,0,"Victoria","Copa","Lluvia",18,90,9,7,56,0,1
+"Austria","Ghana",2026-03-04,"Local",0,0,"Empate","Oficial","Soleado",30,69,4,4,54,0,0
+"Austria","Nueva Zelanda",2026-02-21,"Local",1,1,"Empate","Eliminatoria","Nublado",18,70,6,6,55,0,0
+"Argentina","Paraguay",2026-05-29,"Visitante",1,1,"Empate","Amistoso","Nublado",18,56,5,7,53,0,1
+"Argentina","Uruguay",2026-05-20,"Local",4,0,"Victoria","Copa","Nublado",17,85,4,9,61,1,0
+"Argentina","Brasil",2026-05-06,"Local",1,2,"Derrota","Liga de Naciones","Soleado",28,55,4,8,55,0,1
+"Argentina","Colombia",2026-04-26,"Visitante",0,2,"Derrota","Copa","Lluvia",19,78,6,6,56,1,0
+"Argentina","Ecuador",2026-04-17,"Local",4,1,"Victoria","Amistoso","Soleado",18,67,4,11,54,3,0
+"Argentina","Cabo Verde",2026-04-04,"Visitante",3,0,"Victoria","Oficial","Soleado",25,69,4,10,45,0,2
+"Argentina","Canadá",2026-03-23,"Local",1,0,"Victoria","Amistoso","Soleado",28,50,3,8,57,2,0
+"Argentina","Alemania",2026-03-15,"Visitante",1,2,"Derrota","Oficial","Soleado",25,66,7,6,58,0,1
+"Argentina","Australia",2026-03-01,"Visitante",3,1,"Victoria","Eliminatoria","Soleado",23,40,9,12,34,1,0
+"Argentina","Noruega",2026-02-18,"Visitante",3,0,"Victoria","Eliminatoria","Nublado",24,55,3,9,50,2,0
+"Argelia","Ghana",2026-05-28,"Local",3,0,"Victoria","Copa","Soleado",21,63,8,9,51,1,0
+"Argelia","Sudáfrica",2026-05-18,"Visitante",1,1,"Empate","Copa","Soleado",27,47,7,8,47,1,0
+"Argelia","República Democrática del Congo",2026-05-09,"Local",2,0,"Victoria","Copa","Nublado",16,85,8,8,46,1,0
+"Argelia","Túnez",2026-04-27,"Local",3,0,"Victoria","Oficial","Soleado",29,63,5,8,56,0,0
+"Argelia","Senegal",2026-04-14,"Local",1,1,"Empate","Eliminatoria","Caluroso",34,51,8,5,49,3,0
+"Argelia","Costa de Marfil",2026-04-06,"Local",1,2,"Derrota","Liga de Naciones","Soleado",18,50,6,6,58,0,0
+"Argelia","Egipto",2026-03-26,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",27,42,6,5,49,1,0
+"Argelia","Bosnia y Herzegovina",2026-03-14,"Local",0,1,"Derrota","Eliminatoria","Lluvia",19,74,3,7,62,0,0
+"Argelia","Irán",2026-03-04,"Local",3,3,"Empate","Eliminatoria","Soleado",25,56,5,7,54,1,0
+"Argelia","Colombia",2026-02-21,"Visitante",1,1,"Empate","Liga de Naciones","Soleado",21,67,9,5,53,2,0
+"Arabia Saudita","Corea del Sur",2026-05-28,"Visitante",0,4,"Derrota","Oficial","Nublado",18,64,8,4,48,1,1
+"Arabia Saudita","Irán",2026-05-18,"Visitante",1,1,"Empate","Liga de Naciones","Lluvia",20,78,8,6,52,1,1
+"Arabia Saudita","Irak",2026-05-06,"Local",2,2,"Empate","Oficial","Nublado",21,74,4,6,54,0,0
+"Arabia Saudita","Jordania",2026-04-28,"Local",2,0,"Victoria","Amistoso","Soleado",27,37,8,7,54,1,0
+"Arabia Saudita","Australia",2026-04-15,"Local",3,1,"Victoria","Copa","Soleado",20,66,9,6,49,0,0
+"Arabia Saudita","Japón",2026-04-05,"Visitante",0,2,"Derrota","Eliminatoria","Soleado",30,50,3,3,50,2,1
+"Arabia Saudita","Uzbekistán",2026-03-26,"Local",1,0,"Victoria","Oficial","Nublado",16,60,9,6,53,0,0
+"Arabia Saudita","Austria",2026-03-13,"Visitante",1,0,"Victoria","Copa","Caluroso",29,56,8,3,45,1,0
+"Arabia Saudita","Países Bajos",2026-03-03,"Local",4,2,"Victoria","Copa","Soleado",26,61,9,8,56,1,0
+"Arabia Saudita","República Checa",2026-02-18,"Local",3,1,"Victoria","Eliminatoria","Nublado",21,81,9,7,47,3,0
+"Australia","Arabia Saudita",2026-05-29,"Local",2,0,"Victoria","Amistoso","Soleado",27,65,8,8,63,0,0
+"Australia","Catar",2026-05-17,"Local",1,2,"Derrota","Eliminatoria","Soleado",30,55,6,8,52,3,2
+"Australia","Uzbekistán",2026-05-07,"Visitante",2,2,"Empate","Copa","Soleado",26,61,6,9,42,0,0
+"Australia","Jordania",2026-04-27,"Local",2,1,"Victoria","Copa","Soleado",30,48,7,8,57,0,1
+"Australia","Japón",2026-04-16,"Local",0,3,"Derrota","Amistoso","Soleado",25,44,5,5,55,0,0
+"Australia","Irak",2026-04-04,"Visitante",0,0,"Empate","Amistoso","Soleado",26,38,7,5,36,0,0
+"Australia","Irán",2026-03-23,"Visitante",4,0,"Victoria","Liga de Naciones","Soleado",18,43,9,12,43,1,1
+"Australia","Canadá",2026-03-13,"Local",3,0,"Victoria","Copa","Caluroso",31,56,4,10,50,3,1
+"Australia","Brasil",2026-03-02,"Visitante",0,2,"Derrota","Eliminatoria","Soleado",20,57,3,6,47,1,0
+"Australia","República Democrática del Congo",2026-02-18,"Visitante",3,1,"Victoria","Liga de Naciones","Soleado",25,59,4,9,51,1,1
+"Austria","Alemania",2026-05-31,"Local",0,2,"Derrota","Eliminatoria","Nublado",15,78,8,5,59,0,0
+"Austria","Croacia",2026-05-17,"Local",1,0,"Victoria","Eliminatoria","Soleado",30,65,6,5,47,1,0
+"Austria","República Checa",2026-05-07,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",19,54,3,7,45,1,0
+"Austria","Noruega",2026-04-27,"Visitante",2,3,"Derrota","Eliminatoria","Frio",5,56,4,7,57,1,0
+"Austria","España",2026-04-15,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",18,49,4,4,40,2,0
+"Austria","Turquía",2026-04-05,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",18,77,3,7,48,0,0
+"Austria","Francia",2026-03-26,"Visitante",0,4,"Derrota","Eliminatoria","Caluroso",36,62,5,6,48,2,1
+"Austria","Catar",2026-03-15,"Visitante",1,0,"Victoria","Copa","Lluvia",18,90,9,7,56,0,1
+"Austria","Ghana",2026-03-04,"Local",0,0,"Empate","Oficial","Soleado",30,69,4,4,54,0,0
+"Austria","Nueva Zelanda",2026-02-21,"Local",1,1,"Empate","Eliminatoria","Nublado",18,70,6,6,55,0,0
+"Bélgica","Austria",2026-05-28,"Local",0,1,"Derrota","Amistoso","Caluroso",29,60,6,4,50,1,1
+"Bélgica","Escocia",2026-05-20,"Local",3,0,"Victoria","Copa","Lluvia",23,94,7,9,49,1,0
+"Bélgica","Portugal",2026-05-09,"Visitante",1,1,"Empate","Oficial","Caluroso",34,43,8,5,52,1,1
+"Bélgica","Croacia",2026-04-26,"Local",2,3,"Derrota","Eliminatoria","Soleado",19,39,6,9,64,3,0
+"Bélgica","Suiza",2026-04-16,"Visitante",0,2,"Derrota","Liga de Naciones","Lluvia",17,85,3,5,47,2,0
+"Bélgica","Alemania",2026-04-04,"Local",2,0,"Victoria","Eliminatoria","Soleado",26,42,3,9,56,2,0
+"Bélgica","Francia",2026-03-25,"Local",1,1,"Empate","Eliminatoria","Frio",11,47,5,4,49,0,1
+"Bélgica","Canadá",2026-03-12,"Local",1,0,"Victoria","Oficial","Frio",7,66,7,6,52,1,0
+"Bélgica","Sudáfrica",2026-03-03,"Visitante",1,1,"Empate","Eliminatoria","Lluvia",16,79,7,6,52,2,0
+"Bélgica","Costa de Marfil",2026-02-21,"Visitante",4,2,"Victoria","Oficial","Nublado",14,66,5,13,58,1,0
+"Bosnia y Herzegovina","Turquía",2026-05-29,"Local",5,0,"Victoria","Eliminatoria","Soleado",20,55,5,13,55,0,0
+"Bosnia y Herzegovina","Suiza",2026-05-19,"Visitante",2,1,"Victoria","Eliminatoria","Lluvia",18,77,8,6,41,3,0
+"Bosnia y Herzegovina","España",2026-05-08,"Visitante",0,1,"Derrota","Liga de Naciones","Lluvia",22,75,8,5,40,1,1
+"Bosnia y Herzegovina","Inglaterra",2026-04-28,"Visitante",0,0,"Empate","Oficial","Nublado",17,67,5,3,48,2,0
+"Bosnia y Herzegovina","Escocia",2026-04-17,"Visitante",2,2,"Empate","Amistoso","Lluvia",22,91,8,9,59,1,0
+"Bosnia y Herzegovina","Países Bajos",2026-04-03,"Visitante",2,1,"Victoria","Oficial","Soleado",25,40,4,8,46,0,0
+"Bosnia y Herzegovina","Noruega",2026-03-23,"Local",1,1,"Empate","Amistoso","Nublado",22,66,4,3,46,0,1
+"Bosnia y Herzegovina","Argentina",2026-03-13,"Local",1,0,"Victoria","Copa","Frio",6,53,7,4,53,1,0
+"Bosnia y Herzegovina","Sudáfrica",2026-03-01,"Local",1,2,"Derrota","Eliminatoria","Lluvia",19,91,9,7,58,0,0
+"Bosnia y Herzegovina","Corea del Sur",2026-02-21,"Local",2,1,"Victoria","Liga de Naciones","Nublado",15,55,8,6,51,1,0
+"Brasil","Colombia",2026-05-29,"Local",1,2,"Derrota","Liga de Naciones","Lluvia",24,84,6,5,56,0,0
+"Brasil","Paraguay",2026-05-18,"Visitante",2,1,"Victoria","Liga de Naciones","Soleado",20,48,7,9,54,0,0
+"Brasil","Argentina",2026-05-06,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",14,79,5,6,50,0,0
+"Brasil","Ecuador",2026-04-28,"Local",3,1,"Victoria","Copa","Soleado",20,42,8,9,62,0,0
+"Brasil","Uruguay",2026-04-17,"Visitante",1,1,"Empate","Eliminatoria","Nublado",24,63,4,7,48,1,0
+"Brasil","Turquía",2026-04-04,"Local",1,1,"Empate","Copa","Soleado",25,35,5,7,62,1,1
+"Brasil","Curazao",2026-03-24,"Visitante",0,0,"Empate","Liga de Naciones","Lluvia",17,72,7,7,49,1,0
+"Brasil","Suecia",2026-03-15,"Local",3,2,"Victoria","Eliminatoria","Frio",7,72,9,11,55,3,1
+"Brasil","República Democrática del Congo",2026-03-02,"Visitante",4,0,"Victoria","Eliminatoria","Lluvia",23,94,4,10,50,0,0
+"Brasil","Cabo Verde",2026-02-20,"Visitante",4,2,"Victoria","Eliminatoria","Nublado",21,68,4,12,53,0,0
+"Cabo Verde","Argelia",2026-05-28,"Local",1,2,"Derrota","Liga de Naciones","Soleado",30,51,9,7,53,0,2
+"Cabo Verde","República Democrática del Congo",2026-05-18,"Local",0,3,"Derrota","Liga de Naciones","Lluvia",19,76,3,4,52,4,1
+"Cabo Verde","Costa de Marfil",2026-05-06,"Visitante",0,1,"Derrota","Amistoso","Lluvia",18,82,5,3,49,0,0
+"Cabo Verde","Egipto",2026-04-27,"Visitante",1,0,"Victoria","Liga de Naciones","Soleado",26,36,9,5,44,1,0
+"Cabo Verde","Sudáfrica",2026-04-15,"Local",1,0,"Victoria","Copa","Caluroso",35,38,5,5,56,1,0
+"Cabo Verde","Marruecos",2026-04-05,"Local",0,2,"Derrota","Eliminatoria","Nublado",23,75,3,4,47,3,0
+"Cabo Verde","Túnez",2026-03-23,"Local",0,1,"Derrota","Eliminatoria","Frio",11,70,5,4,50,0,1
+"Cabo Verde","Noruega",2026-03-13,"Visitante",1,3,"Derrota","Eliminatoria","Soleado",18,57,6,5,36,1,1
+"Cabo Verde","Haití",2026-03-01,"Local",1,1,"Empate","Amistoso","Soleado",27,46,7,6,48,1,1
+"Cabo Verde","Croacia",2026-02-21,"Local",1,2,"Derrota","Eliminatoria","Nublado",20,83,9,6,53,1,0
+"Canadá","Panamá",2026-05-31,"Local",2,2,"Empate","Amistoso","Soleado",25,69,9,7,51,1,0
+"Canadá","Haití",2026-05-20,"Local",2,0,"Victoria","Liga de Naciones","Soleado",23,35,7,11,56,1,1
+"Canadá","México",2026-05-08,"Local",5,1,"Victoria","Eliminatoria","Lluvia",17,94,4,9,61,1,0
+"Canadá","Curazao",2026-04-27,"Visitante",0,1,"Derrota","Oficial","Lluvia",24,76,4,5,53,0,0
+"Canadá","Estados Unidos",2026-04-15,"Visitante",0,1,"Derrota","Amistoso","Nublado",19,62,5,7,47,1,0
+"Canadá","Cabo Verde",2026-04-03,"Local",4,1,"Victoria","Eliminatoria","Nublado",17,80,3,9,53,2,0
+"Canadá","Escocia",2026-03-23,"Local",3,2,"Victoria","Liga de Naciones","Soleado",23,46,8,9,58,1,0
+"Canadá","Inglaterra",2026-03-13,"Local",0,2,"Derrota","Oficial","Soleado",30,55,7,5,57,2,2
+"Canadá","Marruecos",2026-03-02,"Visitante",0,0,"Empate","Amistoso","Nublado",18,59,6,4,53,0,1
+"Canadá","Senegal",2026-02-18,"Visitante",1,0,"Victoria","Amistoso","Nublado",16,78,5,8,45,2,0
+"Catar","Arabia Saudita",2026-05-29,"Local",3,2,"Victoria","Liga de Naciones","Lluvia",21,93,6,8,37,2,1
+"Catar","Irak",2026-05-18,"Visitante",0,3,"Derrota","Eliminatoria","Lluvia",23,86,4,7,45,3,1
+"Catar","Irán",2026-05-08,"Local",3,1,"Victoria","Oficial","Soleado",21,56,3,7,55,3,0
+"Catar","Uzbekistán",2026-04-27,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",19,38,4,7,52,3,1
+"Catar","Japón",2026-04-17,"Visitante",2,0,"Victoria","Copa","Lluvia",23,95,9,8,49,0,0
+"Catar","Corea del Sur",2026-04-06,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",30,42,5,4,59,2,0
+"Catar","Jordania",2026-03-26,"Visitante",1,1,"Empate","Eliminatoria","Soleado",18,56,9,4,44,2,0
+"Catar","Bosnia y Herzegovina",2026-03-15,"Visitante",2,1,"Victoria","Liga de Naciones","Lluvia",24,95,8,5,59,0,1
+"Catar","España",2026-03-02,"Visitante",2,1,"Victoria","Eliminatoria","Nublado",22,79,4,4,44,1,0
+"Catar","Países Bajos",2026-02-19,"Visitante",1,0,"Victoria","Liga de Naciones","Soleado",28,61,8,4,41,0,1
+"Colombia","Argentina",2026-05-30,"Local",2,1,"Victoria","Oficial","Soleado",27,66,8,7,49,0,0
+"Colombia","Paraguay",2026-05-19,"Visitante",1,1,"Empate","Amistoso","Soleado",28,38,5,8,43,3,0
+"Colombia","Ecuador",2026-05-08,"Local",2,0,"Victoria","Copa","Soleado",27,58,5,8,56,0,0
+"Colombia","Uruguay",2026-04-28,"Local",3,2,"Victoria","Oficial","Nublado",22,68,9,8,52,2,0
+"Colombia","Brasil",2026-04-16,"Local",1,1,"Empate","Oficial","Soleado",25,69,9,6,51,0,0
+"Colombia","Bosnia y Herzegovina",2026-04-03,"Visitante",4,0,"Victoria","Liga de Naciones","Soleado",26,56,4,11,44,1,0
+"Colombia","Argelia",2026-03-25,"Local",3,0,"Victoria","Amistoso","Frio",9,46,5,7,58,0,1
+"Colombia","Haití",2026-03-15,"Local",1,0,"Victoria","Eliminatoria","Nublado",17,56,8,8,54,2,0
+"Colombia","Irán",2026-03-04,"Local",2,3,"Derrota","Liga de Naciones","Caluroso",31,57,6,6,50,2,0
+"Colombia","Escocia",2026-02-18,"Local",1,0,"Victoria","Liga de Naciones","Lluvia",21,77,7,6,54,4,1
+"Corea del Sur","Australia",2026-05-29,"Local",2,2,"Empate","Amistoso","Soleado",29,37,6,9,59,0,0
+"Corea del Sur","Jordania",2026-05-19,"Local",2,1,"Victoria","Oficial","Soleado",29,37,8,5,69,2,0
+"Corea del Sur","Catar",2026-05-06,"Visitante",2,2,"Empate","Amistoso","Soleado",27,36,6,5,46,2,1
+"Corea del Sur","Uzbekistán",2026-04-26,"Local",2,2,"Empate","Amistoso","Frio",5,75,7,8,60,1,0
+"Corea del Sur","Arabia Saudita",2026-04-16,"Local",1,5,"Derrota","Eliminatoria","Nublado",19,72,9,5,45,0,0
+"Corea del Sur","Irak",2026-04-06,"Local",2,1,"Victoria","Oficial","Nublado",18,57,6,5,60,0,1
+"Corea del Sur","Japón",2026-03-26,"Local",3,1,"Victoria","Oficial","Lluvia",24,73,5,10,54,3,0
+"Corea del Sur","Canadá",2026-03-13,"Visitante",2,1,"Victoria","Liga de Naciones","Nublado",18,58,6,9,49,0,0
+"Corea del Sur","Bélgica",2026-03-02,"Local",0,2,"Derrota","Amistoso","Nublado",22,81,5,4,42,1,1
+"Corea del Sur","Argelia",2026-02-19,"Visitante",3,1,"Victoria","Amistoso","Soleado",23,52,8,9,57,3,0
+"Costa de Marfil","Egipto",2026-05-29,"Visitante",3,0,"Victoria","Oficial","Soleado",23,40,4,8,44,4,0
+"Costa de Marfil","Sudáfrica",2026-05-18,"Visitante",0,0,"Empate","Eliminatoria","Soleado",27,63,5,5,41,2,0
+"Costa de Marfil","Túnez",2026-05-08,"Visitante",1,1,"Empate","Eliminatoria","Lluvia",15,88,9,4,51,0,0
+"Costa de Marfil","Senegal",2026-04-26,"Local",1,1,"Empate","Eliminatoria","Caluroso",36,44,9,6,58,1,1
+"Costa de Marfil","Cabo Verde",2026-04-14,"Visitante",1,0,"Victoria","Oficial","Soleado",19,52,3,6,47,0,0
+"Costa de Marfil","República Democrática del Congo",2026-04-06,"Visitante",2,2,"Empate","Eliminatoria","Soleado",19,67,7,7,46,0,1
+"Costa de Marfil","Marruecos",2026-03-25,"Local",1,3,"Derrota","Eliminatoria","Soleado",21,66,9,5,51,2,0
+"Costa de Marfil","Catar",2026-03-13,"Local",2,0,"Victoria","Liga de Naciones","Soleado",26,67,5,8,62,3,1
+"Costa de Marfil","Corea del Sur",2026-03-01,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",28,39,6,4,55,2,1
+"Costa de Marfil","Croacia",2026-02-19,"Local",2,0,"Victoria","Amistoso","Nublado",23,72,4,8,50,2,1
+"Croacia","Suecia",2026-05-28,"Local",0,1,"Derrota","Eliminatoria","Frio",11,54,9,3,55,2,0
+"Croacia","Turquía",2026-05-19,"Visitante",4,2,"Victoria","Amistoso","Soleado",22,35,3,11,47,1,1
+"Croacia","España",2026-05-06,"Visitante",0,2,"Derrota","Eliminatoria","Frio",13,73,3,6,52,2,1
+"Croacia","Bélgica",2026-04-27,"Local",1,0,"Victoria","Amistoso","Soleado",19,45,3,5,55,0,1
+"Croacia","Alemania",2026-04-17,"Visitante",1,0,"Victoria","Amistoso","Soleado",25,35,6,6,48,3,0
+"Croacia","Escocia",2026-04-06,"Local",2,2,"Empate","Liga de Naciones","Nublado",19,61,4,11,53,2,1
+"Croacia","Francia",2026-03-23,"Local",0,0,"Empate","Eliminatoria","Frio",12,60,6,6,51,0,0
+"Croacia","Costa de Marfil",2026-03-15,"Local",0,1,"Derrota","Eliminatoria","Lluvia",23,80,5,5,60,0,0
+"Croacia","Uruguay",2026-03-03,"Local",3,0,"Victoria","Copa","Nublado",17,79,8,9,53,0,0
+"Croacia","Irak",2026-02-18,"Visitante",2,0,"Victoria","Liga de Naciones","Soleado",27,46,9,8,56,2,0
+"Curazao","Estados Unidos",2026-05-29,"Local",2,1,"Victoria","Eliminatoria","Soleado",30,38,4,3,57,1,1
+"Curazao","Canadá",2026-05-18,"Visitante",1,1,"Empate","Eliminatoria","Lluvia",18,82,3,4,44,2,0
+"Curazao","Panamá",2026-05-08,"Visitante",0,2,"Derrota","Oficial","Caluroso",33,65,3,6,47,1,0
+"Curazao","México",2026-04-26,"Visitante",0,2,"Derrota","Eliminatoria","Frio",13,56,5,3,47,0,0
+"Curazao","Haití",2026-04-14,"Visitante",0,4,"Derrota","Amistoso","Soleado",30,35,8,6,40,0,0
+"Curazao","Sudáfrica",2026-04-04,"Local",2,0,"Victoria","Eliminatoria","Lluvia",16,79,3,5,50,1,0
+"Curazao","Uruguay",2026-03-24,"Local",0,2,"Derrota","Amistoso","Nublado",16,80,8,1,40,2,0
+"Curazao","Argelia",2026-03-15,"Visitante",3,3,"Empate","Eliminatoria","Soleado",28,53,7,7,46,2,0
+"Curazao","Ghana",2026-03-03,"Visitante",1,3,"Derrota","Liga de Naciones","Lluvia",15,92,6,4,36,0,0
+"Curazao","Irak",2026-02-20,"Local",1,0,"Victoria","Oficial","Nublado",23,68,8,7,49,3,0
+"Ecuador","Uruguay",2026-05-29,"Local",1,1,"Empate","Liga de Naciones","Soleado",19,67,4,7,49,0,0
+"Ecuador","Paraguay",2026-05-17,"Visitante",1,0,"Victoria","Copa","Lluvia",25,90,8,7,48,1,0
+"Ecuador","Argentina",2026-05-07,"Local",0,1,"Derrota","Amistoso","Nublado",22,78,8,2,49,0,0
+"Ecuador","Brasil",2026-04-28,"Local",0,1,"Derrota","Eliminatoria","Soleado",27,55,8,4,56,2,1
+"Ecuador","Colombia",2026-04-15,"Local",2,1,"Victoria","Eliminatoria","Soleado",18,69,4,6,50,1,2
+"Ecuador","Ghana",2026-04-06,"Visitante",1,0,"Victoria","Amistoso","Soleado",22,42,5,6,40,1,0
+"Ecuador","Curazao",2026-03-23,"Local",1,0,"Victoria","Oficial","Caluroso",32,58,4,7,55,1,0
+"Ecuador","Catar",2026-03-15,"Visitante",5,3,"Victoria","Eliminatoria","Caluroso",34,58,5,10,49,1,0
+"Ecuador","Irak",2026-03-02,"Visitante",2,0,"Victoria","Eliminatoria","Frio",9,54,4,12,53,1,0
+"Ecuador","España",2026-02-20,"Local",1,3,"Derrota","Eliminatoria","Lluvia",22,92,8,5,54,1,0
+"Egipto","Marruecos",2026-05-28,"Visitante",0,1,"Derrota","Amistoso","Soleado",25,46,5,1,50,1,0
+"Egipto","Sudáfrica",2026-05-18,"Local",4,0,"Victoria","Liga de Naciones","Caluroso",31,61,6,12,47,0,1
+"Egipto","Túnez",2026-05-07,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",24,37,3,6,54,0,0
+"Egipto","Cabo Verde",2026-04-27,"Visitante",0,0,"Empate","Eliminatoria","Nublado",22,81,8,6,55,0,0
+"Egipto","Argelia",2026-04-15,"Local",2,3,"Derrota","Copa","Soleado",21,66,6,9,55,2,0
+"Egipto","Senegal",2026-04-03,"Local",1,1,"Empate","Copa","Nublado",19,64,6,4,55,0,0
+"Egipto","República Democrática del Congo",2026-03-25,"Local",2,0,"Victoria","Liga de Naciones","Lluvia",23,95,5,8,46,1,0
+"Egipto","Uzbekistán",2026-03-15,"Local",0,1,"Derrota","Eliminatoria","Soleado",18,60,3,3,48,1,1
+"Egipto","Croacia",2026-03-02,"Local",3,2,"Victoria","Eliminatoria","Lluvia",15,82,3,8,49,3,0
+"Egipto","Paraguay",2026-02-20,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",36,62,7,3,47,0,1
+"Escocia","Noruega",2026-05-29,"Visitante",2,2,"Empate","Oficial","Nublado",17,77,7,10,54,1,1
+"Escocia","Francia",2026-05-18,"Local",1,2,"Derrota","Eliminatoria","Lluvia",25,78,8,6,52,0,0
+"Escocia","Bosnia y Herzegovina",2026-05-08,"Visitante",1,0,"Victoria","Eliminatoria","Soleado",21,67,9,6,50,0,1
+"Escocia","Turquía",2026-04-27,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",22,79,8,7,51,1,0
+"Escocia","Alemania",2026-04-17,"Local",0,1,"Derrota","Eliminatoria","Soleado",22,64,5,5,47,2,1
+"Escocia","España",2026-04-03,"Visitante",0,1,"Derrota","Amistoso","Nublado",15,81,6,5,38,0,0
+"Escocia","Croacia",2026-03-23,"Visitante",0,1,"Derrota","Eliminatoria","Nublado",17,80,4,6,45,2,1
+"Escocia","Corea del Sur",2026-03-13,"Local",3,2,"Victoria","Liga de Naciones","Soleado",30,40,3,9,50,0,0
+"Escocia","República Democrática del Congo",2026-03-04,"Visitante",0,4,"Derrota","Oficial","Lluvia",19,93,9,7,45,0,0
+"Escocia","Curazao",2026-02-19,"Visitante",2,2,"Empate","Eliminatoria","Frio",6,69,8,9,45,2,0
+"España","Bosnia y Herzegovina",2026-05-31,"Local",4,0,"Victoria","Oficial","Caluroso",28,34,6,10,48,1,0
+"España","Francia",2026-05-17,"Visitante",4,1,"Victoria","Eliminatoria","Nublado",24,84,3,10,55,0,1
+"España","República Checa",2026-05-06,"Visitante",2,1,"Victoria","Eliminatoria","Nublado",16,85,5,8,56,0,0
+"España","Bélgica",2026-04-27,"Local",0,1,"Derrota","Eliminatoria","Frio",6,65,3,5,59,3,0
+"España","Croacia",2026-04-16,"Visitante",0,1,"Derrota","Oficial","Soleado",22,70,5,4,47,0,1
+"España","Austria",2026-04-04,"Local",6,1,"Victoria","Liga de Naciones","Soleado",21,45,6,10,54,0,1
+"España","Suiza",2026-03-23,"Local",2,0,"Victoria","Liga de Naciones","Caluroso",32,47,3,8,49,1,0
+"España","Catar",2026-03-12,"Local",2,1,"Victoria","Eliminatoria","Soleado",25,66,9,7,53,2,0
+"España","Marruecos",2026-03-01,"Visitante",1,1,"Empate","Eliminatoria","Nublado",22,61,4,6,49,0,0
+"España","Egipto",2026-02-19,"Local",1,1,"Empate","Liga de Naciones","Soleado",30,57,4,7,57,0,0
+"Estados Unidos","México",2026-05-30,"Visitante",3,1,"Victoria","Eliminatoria","Nublado",21,81,7,10,45,3,2
+"Estados Unidos","Canadá",2026-05-18,"Local",3,1,"Victoria","Liga de Naciones","Soleado",30,44,9,9,54,1,0
+"Estados Unidos","Panamá",2026-05-09,"Local",1,0,"Victoria","Eliminatoria","Soleado",20,38,6,9,63,1,0
+"Estados Unidos","Haití",2026-04-28,"Local",2,1,"Victoria","Eliminatoria","Soleado",26,54,3,8,52,0,0
+"Estados Unidos","Curazao",2026-04-15,"Visitante",2,0,"Victoria","Amistoso","Nublado",17,79,6,8,56,2,0
+"Estados Unidos","Uruguay",2026-04-04,"Visitante",1,3,"Derrota","Copa","Nublado",19,56,6,8,46,1,0
+"Estados Unidos","Cabo Verde",2026-03-24,"Local",1,1,"Empate","Eliminatoria","Frio",4,63,8,5,53,0,0
+"Estados Unidos","Escocia",2026-03-13,"Local",0,1,"Derrota","Oficial","Lluvia",22,89,4,5,49,1,0
+"Estados Unidos","Irak",2026-03-03,"Visitante",0,0,"Empate","Amistoso","Nublado",23,61,7,3,42,0,0
+"Estados Unidos","Inglaterra",2026-02-18,"Visitante",0,1,"Derrota","Eliminatoria","Nublado",22,70,5,6,49,1,0
+"Francia","Austria",2026-05-31,"Visitante",2,0,"Victoria","Amistoso","Caluroso",31,50,7,7,41,3,0
+"Francia","República Checa",2026-05-18,"Local",5,1,"Victoria","Eliminatoria","Soleado",20,50,5,14,60,0,0
+"Francia","Países Bajos",2026-05-07,"Local",2,1,"Victoria","Copa","Caluroso",35,38,9,7,45,2,0
+"Francia","Croacia",2026-04-28,"Visitante",1,0,"Victoria","Oficial","Frio",11,51,6,3,47,2,1
+"Francia","Noruega",2026-04-14,"Local",2,0,"Victoria","Liga de Naciones","Caluroso",28,33,4,7,59,0,0
+"Francia","Escocia",2026-04-05,"Visitante",1,1,"Empate","Eliminatoria","Nublado",23,73,7,6,54,3,0
+"Francia","Suecia",2026-03-24,"Visitante",0,2,"Derrota","Copa","Lluvia",25,73,9,8,57,2,1
+"Francia","Ghana",2026-03-12,"Visitante",1,1,"Empate","Eliminatoria","Soleado",30,52,7,4,52,0,0
+"Francia","Cabo Verde",2026-03-03,"Visitante",4,0,"Victoria","Liga de Naciones","Nublado",18,83,5,9,51,2,0
+"Francia","Sudáfrica",2026-02-18,"Local",3,0,"Victoria","Oficial","Soleado",29,57,9,8,60,0,0
+"Ghana","Argelia",2026-05-30,"Local",3,1,"Victoria","Eliminatoria","Soleado",29,35,5,8,50,1,1
+"Ghana","Costa de Marfil",2026-05-18,"Local",1,1,"Empate","Eliminatoria","Lluvia",18,72,9,7,53,0,0
+"Ghana","Marruecos",2026-05-06,"Local",1,1,"Empate","Oficial","Nublado",19,56,4,5,45,1,0
+"Ghana","Egipto",2026-04-26,"Visitante",3,0,"Victoria","Amistoso","Caluroso",30,46,9,7,34,1,0
+"Ghana","Cabo Verde",2026-04-16,"Local",1,3,"Derrota","Eliminatoria","Nublado",17,65,9,3,48,1,0
+"Ghana","República Democrática del Congo",2026-04-05,"Local",1,0,"Victoria","Eliminatoria","Frio",12,54,3,6,60,0,1
+"Ghana","Senegal",2026-03-25,"Visitante",0,3,"Derrota","Eliminatoria","Nublado",17,61,7,6,43,3,1
+"Ghana","Escocia",2026-03-13,"Visitante",1,0,"Victoria","Eliminatoria","Lluvia",16,70,5,5,41,2,0
+"Ghana","Argentina",2026-03-03,"Local",2,1,"Victoria","Liga de Naciones","Soleado",23,54,3,5,53,2,0
+"Ghana","Noruega",2026-02-19,"Local",0,1,"Derrota","Eliminatoria","Frio",4,51,4,3,48,0,2
+"Haití","Canadá",2026-05-30,"Local",2,1,"Victoria","Amistoso","Nublado",14,55,9,7,39,1,2
+"Haití","México",2026-05-20,"Visitante",1,2,"Derrota","Liga de Naciones","Caluroso",29,62,5,4,45,4,0
+"Haití","Panamá",2026-05-09,"Visitante",0,2,"Derrota","Amistoso","Lluvia",20,83,3,4,36,1,1
+"Haití","Curazao",2026-04-25,"Visitante",3,1,"Victoria","Copa","Nublado",22,55,8,9,51,1,0
+"Haití","Estados Unidos",2026-04-16,"Visitante",2,3,"Derrota","Eliminatoria","Nublado",21,67,8,6,47,1,0
+"Haití","Jordania",2026-04-03,"Visitante",2,2,"Empate","Eliminatoria","Nublado",16,75,6,10,52,2,1
+"Haití","Bosnia y Herzegovina",2026-03-23,"Local",1,1,"Empate","Eliminatoria","Soleado",29,67,8,6,56,2,0
+"Haití","Uruguay",2026-03-13,"Local",2,0,"Victoria","Eliminatoria","Soleado",25,53,7,7,44,1,0
+"Haití","Francia",2026-03-04,"Local",0,1,"Derrota","Amistoso","Soleado",29,64,8,4,48,0,0
+"Haití","Australia",2026-02-18,"Visitante",0,2,"Derrota","Eliminatoria","Soleado",26,36,3,3,40,1,1
+"Inglaterra","Alemania",2026-05-29,"Visitante",0,0,"Empate","Oficial","Lluvia",25,76,9,5,64,1,0
+"Inglaterra","Austria",2026-05-20,"Local",4,0,"Victoria","Amistoso","Frio",9,69,8,6,64,3,1
+"Inglaterra","Países Bajos",2026-05-07,"Visitante",0,2,"Derrota","Copa","Soleado",19,37,8,5,38,0,0
+"Inglaterra","Suiza",2026-04-28,"Visitante",1,0,"Victoria","Eliminatoria","Soleado",19,56,8,4,54,3,0
+"Inglaterra","Bélgica",2026-04-15,"Local",2,1,"Victoria","Oficial","Lluvia",19,92,8,9,53,0,0
+"Inglaterra","Turquía",2026-04-03,"Local",1,1,"Empate","Eliminatoria","Soleado",22,37,7,7,48,1,0
+"Inglaterra","España",2026-03-23,"Local",4,1,"Victoria","Amistoso","Caluroso",29,50,7,12,60,4,0
+"Inglaterra","Egipto",2026-03-15,"Visitante",3,0,"Victoria","Oficial","Nublado",18,71,4,8,43,0,1
+"Inglaterra","Argelia",2026-03-01,"Visitante",0,2,"Derrota","Eliminatoria","Caluroso",30,50,9,5,48,1,0
+"Inglaterra","República Democrática del Congo",2026-02-18,"Visitante",2,1,"Victoria","Eliminatoria","Frio",7,72,8,7,50,0,1
+"Irak","Corea del Sur",2026-05-28,"Visitante",0,3,"Derrota","Amistoso","Soleado",26,35,7,3,51,0,0
+"Irak","Jordania",2026-05-17,"Local",2,0,"Victoria","Eliminatoria","Soleado",22,64,4,6,51,1,0
+"Irak","Catar",2026-05-08,"Local",1,1,"Empate","Amistoso","Caluroso",28,39,5,4,51,0,0
+"Irak","Irán",2026-04-26,"Local",2,1,"Victoria","Amistoso","Soleado",21,50,3,6,45,0,2
+"Irak","Japón",2026-04-17,"Local",3,1,"Victoria","Eliminatoria","Lluvia",16,73,8,7,57,1,1
+"Irak","Australia",2026-04-05,"Local",1,1,"Empate","Liga de Naciones","Frio",7,51,3,6,56,1,0
+"Irak","Uzbekistán",2026-03-26,"Visitante",1,1,"Empate","Eliminatoria","Soleado",29,61,6,8,47,1,0
+"Irak","Croacia",2026-03-13,"Local",1,0,"Victoria","Eliminatoria","Soleado",24,61,6,4,35,0,1
+"Irak","Francia",2026-03-01,"Local",1,2,"Derrota","Eliminatoria","Soleado",20,36,9,2,49,0,1
+"Irak","Estados Unidos",2026-02-19,"Local",1,0,"Victoria","Amistoso","Frio",10,62,3,3,54,1,0
+"Irán","Japón",2026-05-31,"Visitante",1,0,"Victoria","Eliminatoria","Lluvia",21,89,3,7,49,2,0
+"Irán","Irak",2026-05-18,"Visitante",0,2,"Derrota","Eliminatoria","Caluroso",35,42,8,4,51,3,0
+"Irán","Uzbekistán",2026-05-09,"Visitante",1,2,"Derrota","Eliminatoria","Frio",12,54,7,6,55,1,0
+"Irán","Corea del Sur",2026-04-26,"Local",1,3,"Derrota","Eliminatoria","Frio",9,59,7,10,54,0,0
+"Irán","Arabia Saudita",2026-04-16,"Local",1,0,"Victoria","Eliminatoria","Frio",8,54,9,5,47,1,1
+"Irán","Australia",2026-04-04,"Visitante",3,0,"Victoria","Eliminatoria","Soleado",18,40,4,11,48,0,0
+"Irán","Jordania",2026-03-23,"Visitante",3,2,"Victoria","Liga de Naciones","Soleado",20,56,4,11,57,0,0
+"Irán","Curazao",2026-03-12,"Local",0,2,"Derrota","Eliminatoria","Frio",11,63,3,6,59,1,0
+"Irán","Turquía",2026-03-03,"Visitante",2,1,"Victoria","Amistoso","Nublado",16,62,8,6,53,1,0
+"Irán","Países Bajos",2026-02-18,"Visitante",1,1,"Empate","Eliminatoria","Caluroso",29,61,4,5,46,1,0
+"Japón","Irak",2026-05-30,"Local",1,1,"Empate","Liga de Naciones","Soleado",22,53,5,6,54,0,0
+"Japón","Catar",2026-05-20,"Visitante",2,2,"Empate","Eliminatoria","Lluvia",15,73,5,8,54,0,0
+"Japón","Irán",2026-05-09,"Visitante",1,3,"Derrota","Copa","Soleado",19,35,8,4,61,0,1
+"Japón","Arabia Saudita",2026-04-27,"Local",1,1,"Empate","Amistoso","Soleado",25,53,5,7,61,0,0
+"Japón","Australia",2026-04-14,"Local",2,0,"Victoria","Eliminatoria","Caluroso",28,35,4,10,54,0,1
+"Japón","Jordania",2026-04-04,"Local",2,0,"Victoria","Amistoso","Nublado",21,59,4,7,59,1,0
+"Japón","Uzbekistán",2026-03-25,"Local",2,1,"Victoria","Liga de Naciones","Soleado",27,68,7,8,46,1,0
+"Japón","Argentina",2026-03-14,"Visitante",0,0,"Empate","Amistoso","Soleado",29,45,7,4,54,1,0
+"Japón","Suecia",2026-03-01,"Local",0,0,"Empate","Amistoso","Lluvia",25,79,4,5,49,3,0
+"Japón","Haití",2026-02-20,"Visitante",0,2,"Derrota","Liga de Naciones","Soleado",25,50,7,5,47,0,0
+"Jordania","Irak",2026-05-30,"Local",1,2,"Derrota","Amistoso","Nublado",15,70,8,4,53,0,0
+"Jordania","Irán",2026-05-20,"Local",0,2,"Derrota","Copa","Soleado",26,52,3,2,51,1,1
+"Jordania","Uzbekistán",2026-05-08,"Visitante",0,0,"Empate","Eliminatoria","Lluvia",21,80,8,3,48,0,0
+"Jordania","Catar",2026-04-27,"Local",0,0,"Empate","Amistoso","Soleado",25,56,6,2,54,2,0
+"Jordania","Arabia Saudita",2026-04-16,"Visitante",1,1,"Empate","Eliminatoria","Soleado",20,63,8,5,43,2,0
+"Jordania","Japón",2026-04-03,"Visitante",2,0,"Victoria","Amistoso","Nublado",17,68,4,7,43,3,0
+"Jordania","Australia",2026-03-26,"Local",0,2,"Derrota","Eliminatoria","Soleado",27,47,8,3,51,1,1
+"Jordania","Noruega",2026-03-15,"Local",1,1,"Empate","Liga de Naciones","Caluroso",29,32,9,6,45,1,1
+"Jordania","Suiza",2026-03-01,"Visitante",0,0,"Empate","Copa","Nublado",15,81,6,4,50,1,1
+"Jordania","España",2026-02-21,"Local",0,2,"Derrota","Copa","Nublado",17,62,5,2,44,1,0
+"Marruecos","Costa de Marfil",2026-05-30,"Visitante",4,0,"Victoria","Liga de Naciones","Soleado",26,40,4,10,42,2,1
+"Marruecos","Sudáfrica",2026-05-18,"Local",2,1,"Victoria","Oficial","Soleado",22,36,3,5,51,0,0
+"Marruecos","Argelia",2026-05-08,"Visitante",2,3,"Derrota","Copa","Soleado",23,65,6,10,42,0,0
+"Marruecos","Ghana",2026-04-28,"Local",2,2,"Empate","Eliminatoria","Nublado",21,64,7,8,56,0,0
+"Marruecos","República Democrática del Congo",2026-04-15,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",29,45,4,5,56,1,0
+"Marruecos","Senegal",2026-04-04,"Local",1,2,"Derrota","Eliminatoria","Nublado",16,64,8,6,52,0,1
+"Marruecos","Túnez",2026-03-26,"Local",1,1,"Empate","Eliminatoria","Soleado",30,46,7,6,51,1,1
+"Marruecos","Brasil",2026-03-15,"Local",1,0,"Victoria","Eliminatoria","Soleado",21,43,6,7,51,0,0
+"Marruecos","Argentina",2026-03-02,"Local",1,1,"Empate","Liga de Naciones","Soleado",28,51,4,3,53,1,0
+"Marruecos","Austria",2026-02-19,"Visitante",2,1,"Victoria","Liga de Naciones","Nublado",21,72,6,7,54,1,1
+"México","Haití",2026-05-30,"Local",3,1,"Victoria","Copa","Soleado",18,56,8,8,55,2,0
+"México","Panamá",2026-05-20,"Local",1,0,"Victoria","Eliminatoria","Soleado",25,35,4,7,59,2,0
+"México","Canadá",2026-05-07,"Local",2,0,"Victoria","Oficial","Nublado",16,58,5,7,50,0,0
+"México","Estados Unidos",2026-04-25,"Local",1,2,"Derrota","Eliminatoria","Lluvia",15,74,5,8,61,3,1
+"México","Curazao",2026-04-15,"Local",2,1,"Victoria","Amistoso","Nublado",19,57,3,8,53,0,0
+"México","Costa de Marfil",2026-04-06,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",33,43,7,3,50,1,0
+"México","Senegal",2026-03-23,"Local",1,1,"Empate","Liga de Naciones","Caluroso",33,64,5,7,63,1,1
+"México","Portugal",2026-03-13,"Visitante",1,2,"Derrota","Liga de Naciones","Nublado",18,65,8,2,55,1,0
+"México","Corea del Sur",2026-03-01,"Local",2,1,"Victoria","Oficial","Soleado",18,59,6,8,57,0,0
+"México","Brasil",2026-02-19,"Local",2,4,"Derrota","Eliminatoria","Nublado",22,65,8,4,44,2,0
+"Noruega","España",2026-05-28,"Local",1,1,"Empate","Oficial","Nublado",17,82,8,3,55,2,1
+"Noruega","Bosnia y Herzegovina",2026-05-17,"Local",3,2,"Victoria","Oficial","Soleado",24,50,8,8,58,1,0
+"Noruega","República Checa",2026-05-09,"Visitante",1,0,"Victoria","Oficial","Soleado",20,44,7,8,49,2,1
+"Noruega","Escocia",2026-04-27,"Visitante",1,1,"Empate","Oficial","Lluvia",20,90,8,3,52,0,1
+"Noruega","Países Bajos",2026-04-17,"Visitante",0,0,"Empate","Eliminatoria","Soleado",25,48,9,4,43,0,1
+"Noruega","Francia",2026-04-03,"Visitante",1,2,"Derrota","Eliminatoria","Nublado",16,66,9,7,44,3,2
+"Noruega","Turquía",2026-03-23,"Visitante",0,0,"Empate","Oficial","Lluvia",19,71,3,4,40,1,1
+"Noruega","Australia",2026-03-15,"Visitante",0,0,"Empate","Copa","Soleado",25,62,4,5,54,0,2
+"Noruega","Uruguay",2026-03-02,"Local",3,1,"Victoria","Liga de Naciones","Soleado",30,39,9,9,41,0,0
+"Noruega","Sudáfrica",2026-02-20,"Visitante",2,1,"Victoria","Eliminatoria","Nublado",20,71,5,11,50,1,0
+"Nueva Zelanda","Canadá",2026-05-28,"Local",2,3,"Derrota","Amistoso","Caluroso",32,40,6,7,48,0,0
+"Nueva Zelanda","Irak",2026-05-17,"Visitante",0,2,"Derrota","Eliminatoria","Lluvia",21,90,6,6,53,1,0
+"Nueva Zelanda","República Democrática del Congo",2026-05-08,"Local",0,1,"Derrota","Eliminatoria","Soleado",25,54,4,1,55,0,0
+"Nueva Zelanda","Jordania",2026-04-26,"Visitante",0,0,"Empate","Amistoso","Soleado",22,57,4,6,32,0,0
+"Nueva Zelanda","Panamá",2026-04-17,"Local",2,1,"Victoria","Eliminatoria","Frio",8,56,9,8,55,1,0
+"Nueva Zelanda","Japón",2026-04-03,"Visitante",0,4,"Derrota","Oficial","Frio",4,50,7,6,47,2,1
+"Nueva Zelanda","Catar",2026-03-26,"Visitante",0,3,"Derrota","Amistoso","Soleado",25,68,7,4,58,2,0
+"Nueva Zelanda","Colombia",2026-03-12,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",29,66,5,5,42,1,0
+"Nueva Zelanda","Brasil",2026-03-03,"Local",2,0,"Victoria","Eliminatoria","Nublado",19,78,5,5,58,3,2
+"Nueva Zelanda","Australia",2026-02-19,"Local",0,0,"Empate","Eliminatoria","Soleado",25,46,3,5,56,0,2
+"Países Bajos","Bosnia y Herzegovina",2026-05-29,"Local",4,0,"Victoria","Eliminatoria","Soleado",25,60,3,9,55,1,0
+"Países Bajos","Portugal",2026-05-18,"Local",1,0,"Victoria","Eliminatoria","Caluroso",28,38,5,6,48,2,0
+"Países Bajos","Noruega",2026-05-09,"Local",2,2,"Empate","Liga de Naciones","Nublado",22,79,6,6,60,0,0
+"Países Bajos","República Checa",2026-04-25,"Local",4,0,"Victoria","Eliminatoria","Frio",9,52,9,12,52,0,0
+"Países Bajos","España",2026-04-15,"Visitante",3,1,"Victoria","Copa","Lluvia",20,86,5,9,43,1,0
+"Países Bajos","Austria",2026-04-04,"Visitante",3,0,"Victoria","Amistoso","Lluvia",25,95,4,7,53,0,0
+"Países Bajos","Alemania",2026-03-26,"Visitante",2,1,"Victoria","Amistoso","Soleado",20,55,5,6,42,1,0
+"Países Bajos","Irak",2026-03-13,"Local",2,1,"Victoria","Copa","Lluvia",17,93,3,9,55,1,1
+"Países Bajos","Japón",2026-03-01,"Visitante",2,0,"Victoria","Eliminatoria","Nublado",24,62,5,9,43,1,1
+"Países Bajos","Paraguay",2026-02-18,"Visitante",0,0,"Empate","Amistoso","Nublado",17,58,3,6,39,3,1
+"Panamá","México",2026-05-30,"Local",3,1,"Victoria","Liga de Naciones","Nublado",24,80,8,8,47,0,0
+"Panamá","Curazao",2026-05-18,"Local",1,4,"Derrota","Amistoso","Lluvia",18,82,4,7,56,1,0
+"Panamá","Canadá",2026-05-07,"Visitante",2,1,"Victoria","Oficial","Caluroso",33,46,8,8,39,0,1
+"Panamá","Estados Unidos",2026-04-27,"Visitante",1,1,"Empate","Eliminatoria","Nublado",21,81,7,2,54,3,0
+"Panamá","Haití",2026-04-17,"Visitante",0,2,"Derrota","Amistoso","Lluvia",20,83,7,5,49,0,1
+"Panamá","Túnez",2026-04-03,"Local",0,0,"Empate","Eliminatoria","Soleado",22,54,5,6,44,3,0
+"Panamá","Austria",2026-03-23,"Local",1,1,"Empate","Eliminatoria","Nublado",22,60,8,5,43,1,1
+"Panamá","Inglaterra",2026-03-13,"Local",1,4,"Derrota","Eliminatoria","Nublado",15,84,9,5,44,0,0
+"Panamá","Ecuador",2026-03-02,"Visitante",0,0,"Empate","Amistoso","Soleado",21,55,5,4,41,2,0
+"Panamá","Francia",2026-02-21,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",34,32,8,4,40,1,0
+"Paraguay","Argentina",2026-05-31,"Local",0,0,"Empate","Eliminatoria","Soleado",27,45,9,1,51,2,0
+"Paraguay","Colombia",2026-05-20,"Visitante",1,2,"Derrota","Eliminatoria","Lluvia",20,79,5,2,48,1,0
+"Paraguay","Ecuador",2026-05-08,"Local",2,1,"Victoria","Eliminatoria","Soleado",19,40,6,7,53,0,1
+"Paraguay","Brasil",2026-04-25,"Local",2,2,"Empate","Eliminatoria","Soleado",19,50,5,8,49,1,1
+"Paraguay","Uruguay",2026-04-15,"Local",1,0,"Victoria","Eliminatoria","Nublado",15,71,9,6,45,1,0
+"Paraguay","Catar",2026-04-03,"Local",1,1,"Empate","Oficial","Soleado",20,56,3,6,53,1,0
+"Paraguay","Alemania",2026-03-25,"Local",1,0,"Victoria","Eliminatoria","Frio",10,69,3,6,35,2,0
+"Paraguay","Suiza",2026-03-15,"Local",0,0,"Empate","Amistoso","Nublado",14,70,9,4,54,3,0
+"Paraguay","Argelia",2026-03-01,"Local",3,1,"Victoria","Eliminatoria","Caluroso",30,33,8,6,47,1,0
+"Paraguay","República Checa",2026-02-20,"Visitante",1,0,"Victoria","Eliminatoria","Soleado",23,46,7,6,52,0,1
+"Portugal","Alemania",2026-05-31,"Local",0,1,"Derrota","Eliminatoria","Soleado",20,51,4,6,61,0,1
+"Portugal","Bélgica",2026-05-18,"Visitante",0,1,"Derrota","Eliminatoria","Frio",12,59,5,3,47,1,0
+"Portugal","Bosnia y Herzegovina",2026-05-07,"Local",4,1,"Victoria","Copa","Frio",5,45,3,10,62,0,0
+"Portugal","Inglaterra",2026-04-26,"Visitante",1,1,"Empate","Amistoso","Caluroso",30,63,9,6,40,2,0
+"Portugal","Austria",2026-04-14,"Local",1,0,"Victoria","Liga de Naciones","Nublado",16,57,4,8,55,1,0
+"Portugal","Suecia",2026-04-03,"Visitante",1,0,"Victoria","Eliminatoria","Frio",6,67,9,7,55,2,0
+"Portugal","Noruega",2026-03-24,"Local",4,3,"Victoria","Oficial","Nublado",17,77,9,12,46,2,0
+"Portugal","Ghana",2026-03-13,"Local",1,0,"Victoria","Amistoso","Nublado",15,61,7,5,64,0,0
+"Portugal","Argelia",2026-03-03,"Visitante",0,0,"Empate","Oficial","Frio",13,46,8,3,55,1,0
+"Portugal","Costa de Marfil",2026-02-20,"Local",2,0,"Victoria","Eliminatoria","Lluvia",18,84,5,7,54,0,0
+"República Checa","Turquía",2026-05-29,"Visitante",0,2,"Derrota","Oficial","Nublado",20,84,9,5,56,2,0
+"República Checa","Alemania",2026-05-20,"Local",0,1,"Derrota","Oficial","Frio",14,51,8,5,45,1,2
+"República Checa","Suecia",2026-05-06,"Local",1,1,"Empate","Liga de Naciones","Frio",10,67,5,5,53,0,0
+"República Checa","Bélgica",2026-04-27,"Local",3,1,"Victoria","Copa","Caluroso",31,64,7,8,57,0,0
+"República Checa","Noruega",2026-04-14,"Visitante",2,0,"Victoria","Liga de Naciones","Soleado",18,44,7,7,52,1,0
+"República Checa","Países Bajos",2026-04-05,"Local",2,4,"Derrota","Eliminatoria","Caluroso",30,34,6,6,48,1,0
+"República Checa","Croacia",2026-03-25,"Local",0,1,"Derrota","Amistoso","Caluroso",36,53,3,2,45,0,0
+"República Checa","Japón",2026-03-13,"Local",1,0,"Victoria","Eliminatoria","Soleado",27,70,7,4,51,0,1
+"República Checa","Senegal",2026-03-01,"Local",2,2,"Empate","Eliminatoria","Frio",12,62,7,5,66,1,0
+"República Checa","Cabo Verde",2026-02-18,"Local",1,0,"Victoria","Liga de Naciones","Lluvia",18,88,5,6,52,1,2
+"República Democrática del Congo","Sudáfrica",2026-05-31,"Local",0,0,"Empate","Copa","Lluvia",15,93,3,6,55,2,0
+"República Democrática del Congo","Marruecos",2026-05-19,"Visitante",0,2,"Derrota","Copa","Soleado",23,42,9,4,43,1,1
+"República Democrática del Congo","Argelia",2026-05-09,"Local",2,2,"Empate","Oficial","Soleado",22,45,4,6,54,0,0
+"República Democrática del Congo","Ghana",2026-04-28,"Visitante",5,3,"Victoria","Eliminatoria","Soleado",20,44,4,11,47,1,0
+"República Democrática del Congo","Cabo Verde",2026-04-15,"Local",1,4,"Derrota","Liga de Naciones","Nublado",24,73,7,4,51,2,0
+"República Democrática del Congo","Túnez",2026-04-04,"Local",0,0,"Empate","Eliminatoria","Caluroso",29,60,9,1,47,1,0
+"República Democrática del Congo","Senegal",2026-03-25,"Local",1,1,"Empate","Amistoso","Nublado",14,58,4,5,51,1,0
+"República Democrática del Congo","Inglaterra",2026-03-13,"Local",1,2,"Derrota","Oficial","Soleado",19,52,8,5,47,1,0
+"República Democrática del Congo","Uruguay",2026-03-04,"Visitante",0,1,"Derrota","Oficial","Caluroso",28,56,7,3,40,1,0
+"República Democrática del Congo","México",2026-02-19,"Local",1,2,"Derrota","Amistoso","Caluroso",35,53,6,3,48,0,0
+"Senegal","Cabo Verde",2026-05-29,"Visitante",3,0,"Victoria","Oficial","Nublado",17,83,5,10,51,3,2
+"Senegal","Sudáfrica",2026-05-19,"Visitante",3,1,"Victoria","Amistoso","Nublado",23,85,7,9,52,3,0
+"Senegal","Argelia",2026-05-07,"Visitante",1,1,"Empate","Oficial","Frio",7,51,7,6,40,1,0
+"Senegal","Marruecos",2026-04-28,"Local",1,0,"Victoria","Liga de Naciones","Soleado",20,42,8,8,56,0,0
+"Senegal","Ghana",2026-04-16,"Visitante",0,0,"Empate","Amistoso","Lluvia",23,91,3,7,52,2,0
+"Senegal","Costa de Marfil",2026-04-05,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",29,64,7,8,56,0,0
+"Senegal","Egipto",2026-03-24,"Local",0,1,"Derrota","Copa","Soleado",25,69,6,5,49,1,0
+"Senegal","Alemania",2026-03-13,"Visitante",1,1,"Empate","Eliminatoria","Nublado",21,63,6,3,51,3,0
+"Senegal","Canadá",2026-03-04,"Local",2,2,"Empate","Oficial","Soleado",21,62,7,7,44,0,0
+"Senegal","Uzbekistán",2026-02-21,"Visitante",1,0,"Victoria","Oficial","Soleado",19,58,9,9,46,2,0
+"Sudáfrica","Costa de Marfil",2026-05-28,"Local",1,1,"Empate","Eliminatoria","Lluvia",18,70,9,3,39,2,0
+"Sudáfrica","Senegal",2026-05-19,"Local",0,3,"Derrota","Eliminatoria","Lluvia",20,84,8,4,45,1,0
+"Sudáfrica","Ghana",2026-05-07,"Visitante",3,2,"Victoria","Amistoso","Nublado",19,67,7,9,50,3,0
+"Sudáfrica","Cabo Verde",2026-04-25,"Local",2,0,"Victoria","Liga de Naciones","Soleado",26,40,4,6,50,3,0
+"Sudáfrica","Egipto",2026-04-15,"Visitante",0,0,"Empate","Eliminatoria","Nublado",17,68,9,6,50,3,0
+"Sudáfrica","Argelia",2026-04-06,"Visitante",2,2,"Empate","Eliminatoria","Lluvia",22,91,6,8,40,3,0
+"Sudáfrica","República Democrática del Congo",2026-03-26,"Local",3,1,"Victoria","Oficial","Soleado",28,56,7,9,50,2,0
+"Sudáfrica","Noruega",2026-03-13,"Visitante",0,2,"Derrota","Amistoso","Nublado",14,72,4,4,41,0,0
+"Sudáfrica","Curazao",2026-03-03,"Local",1,0,"Victoria","Copa","Lluvia",15,73,7,8,57,1,0
+"Sudáfrica","Portugal",2026-02-21,"Local",1,2,"Derrota","Eliminatoria","Lluvia",24,74,7,5,44,0,2
+"Suecia","Suiza",2026-05-31,"Visitante",0,0,"Empate","Liga de Naciones","Nublado",14,79,7,3,51,2,0
+"Suecia","Bosnia y Herzegovina",2026-05-20,"Visitante",3,1,"Victoria","Amistoso","Soleado",25,50,8,8,51,3,0
+"Suecia","Inglaterra",2026-05-08,"Local",1,0,"Victoria","Liga de Naciones","Caluroso",34,43,5,4,58,1,1
+"Suecia","República Checa",2026-04-26,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",22,72,5,7,45,0,1
+"Suecia","Escocia",2026-04-16,"Local",0,2,"Derrota","Amistoso","Frio",11,52,5,6,53,0,0
+"Suecia","Alemania",2026-04-04,"Local",0,1,"Derrota","Eliminatoria","Soleado",18,70,7,4,54,1,0
+"Suecia","Países Bajos",2026-03-26,"Visitante",2,1,"Victoria","Eliminatoria","Frio",4,72,8,6,37,4,1
+"Suecia","Irak",2026-03-15,"Local",2,0,"Victoria","Liga de Naciones","Nublado",19,57,9,9,43,0,0
+"Suecia","Irán",2026-03-02,"Visitante",0,3,"Derrota","Eliminatoria","Soleado",30,69,6,6,42,0,1
+"Suecia","Curazao",2026-02-18,"Local",2,1,"Victoria","Eliminatoria","Nublado",17,84,3,9,59,2,1
+"Suiza","Austria",2026-05-31,"Visitante",3,0,"Victoria","Eliminatoria","Soleado",24,67,3,11,55,2,1
+"Suiza","Bélgica",2026-05-19,"Local",1,3,"Derrota","Eliminatoria","Frio",13,60,4,5,64,3,0
+"Suiza","Inglaterra",2026-05-08,"Local",2,1,"Victoria","Oficial","Nublado",21,77,7,8,48,1,0
+"Suiza","España",2026-04-26,"Local",1,2,"Derrota","Eliminatoria","Soleado",20,36,6,6,51,0,0
+"Suiza","Noruega",2026-04-17,"Visitante",1,0,"Victoria","Oficial","Frio",14,47,7,5,53,2,1
+"Suiza","Alemania",2026-04-05,"Visitante",1,1,"Empate","Amistoso","Nublado",15,58,6,5,50,0,1
+"Suiza","Croacia",2026-03-24,"Local",1,1,"Empate","Eliminatoria","Nublado",18,77,4,3,53,2,0
+"Suiza","Uzbekistán",2026-03-12,"Local",1,0,"Victoria","Eliminatoria","Caluroso",33,61,6,5,64,0,1
+"Suiza","Uruguay",2026-03-04,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",16,85,6,5,48,0,1
+"Suiza","Jordania",2026-02-20,"Local",0,0,"Empate","Liga de Naciones","Soleado",22,42,6,7,56,1,0
+"Túnez","Argelia",2026-05-30,"Local",0,1,"Derrota","Amistoso","Frio",14,55,7,4,48,1,0
+"Túnez","Cabo Verde",2026-05-18,"Visitante",0,0,"Empate","Eliminatoria","Soleado",29,59,4,5,49,4,1
+"Túnez","República Democrática del Congo",2026-05-06,"Local",0,0,"Empate","Copa","Lluvia",16,78,9,6,48,1,1
+"Túnez","Senegal",2026-04-28,"Visitante",2,2,"Empate","Oficial","Soleado",27,37,8,6,42,1,0
+"Túnez","Sudáfrica",2026-04-14,"Local",2,1,"Victoria","Copa","Nublado",17,71,9,7,47,1,0
+"Túnez","Ghana",2026-04-06,"Visitante",1,1,"Empate","Amistoso","Lluvia",16,82,6,6,47,1,0
+"Túnez","Costa de Marfil",2026-03-26,"Visitante",2,3,"Derrota","Copa","Caluroso",35,32,4,8,38,3,1
+"Túnez","Irak",2026-03-12,"Visitante",0,0,"Empate","Eliminatoria","Nublado",18,84,6,4,44,0,0
+"Túnez","España",2026-03-04,"Local",1,1,"Empate","Eliminatoria","Soleado",18,70,7,5,39,1,1
+"Túnez","Jordania",2026-02-20,"Visitante",3,1,"Victoria","Eliminatoria","Soleado",23,55,4,8,51,1,0
+"Turquía","Países Bajos",2026-05-30,"Visitante",3,1,"Victoria","Liga de Naciones","Soleado",23,35,6,6,51,0,0
+"Turquía","Bélgica",2026-05-19,"Local",0,0,"Empate","Oficial","Lluvia",17,78,6,5,51,1,1
+"Turquía","Croacia",2026-05-08,"Visitante",1,0,"Victoria","Liga de Naciones","Caluroso",34,45,8,7,44,1,0
+"Turquía","Escocia",2026-04-27,"Local",1,1,"Empate","Eliminatoria","Lluvia",15,80,8,4,48,4,0
+"Turquía","España",2026-04-14,"Visitante",0,3,"Derrota","Eliminatoria","Soleado",27,59,6,3,38,1,0
+"Turquía","Austria",2026-04-06,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",20,62,8,8,48,2,0
+"Turquía","Portugal",2026-03-24,"Local",0,2,"Derrota","Oficial","Caluroso",32,31,3,4,44,0,0
+"Turquía","Irak",2026-03-15,"Local",3,1,"Victoria","Eliminatoria","Soleado",28,61,9,10,53,2,0
+"Turquía","Nueva Zelanda",2026-03-02,"Visitante",1,2,"Derrota","Eliminatoria","Nublado",15,60,7,7,47,0,0
+"Turquía","Argentina",2026-02-20,"Visitante",0,2,"Derrota","Eliminatoria","Lluvia",22,90,9,4,41,0,0
+"Uruguay","Paraguay",2026-05-28,"Local",0,0,"Empate","Eliminatoria","Nublado",15,76,9,5,60,2,0
+"Uruguay","Brasil",2026-05-20,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",24,35,4,4,45,0,0
+"Uruguay","Ecuador",2026-05-06,"Local",0,2,"Derrota","Oficial","Soleado",23,58,5,4,57,2,0
+"Uruguay","Argentina",2026-04-28,"Local",2,1,"Victoria","Eliminatoria","Caluroso",30,46,8,5,63,0,0
+"Uruguay","Colombia",2026-04-14,"Local",3,0,"Victoria","Oficial","Soleado",23,50,6,8,51,0,2
+"Uruguay","Catar",2026-04-03,"Visitante",1,1,"Empate","Amistoso","Caluroso",28,55,6,5,57,0,0
+"Uruguay","Alemania",2026-03-25,"Visitante",0,4,"Derrota","Eliminatoria","Soleado",28,41,3,5,47,0,1
+"Uruguay","Escocia",2026-03-12,"Local",1,1,"Empate","Eliminatoria","Soleado",18,51,8,7,56,0,0
+"Uruguay","Croacia",2026-03-03,"Visitante",0,1,"Derrota","Copa","Soleado",21,65,3,7,42,1,0
+"Uruguay","Sudáfrica",2026-02-19,"Local",2,0,"Victoria","Liga de Naciones","Nublado",23,76,6,9,58,1,0
+"Uzbekistán","Jordania",2026-05-29,"Local",0,1,"Derrota","Oficial","Lluvia",18,93,5,4,49,0,2
+"Uzbekistán","Catar",2026-05-17,"Visitante",0,2,"Derrota","Eliminatoria","Lluvia",15,92,9,5,45,0,0
+"Uzbekistán","Japón",2026-05-06,"Visitante",1,0,"Victoria","Eliminatoria","Lluvia",25,82,7,6,47,1,0
+"Uzbekistán","Irak",2026-04-26,"Visitante",4,1,"Victoria","Copa","Frio",5,59,6,11,53,3,0
+"Uzbekistán","Irán",2026-04-16,"Visitante",0,0,"Empate","Liga de Naciones","Soleado",27,62,3,3,43,2,0
+"Uzbekistán","Corea del Sur",2026-04-05,"Local",0,4,"Derrota","Oficial","Caluroso",31,35,5,3,63,1,0
+"Uzbekistán","Arabia Saudita",2026-03-24,"Visitante",0,3,"Derrota","Eliminatoria","Lluvia",21,95,4,3,48,1,0
+"Uzbekistán","Marruecos",2026-03-12,"Local",1,2,"Derrota","Liga de Naciones","Nublado",14,71,9,4,50,2,0
+"Uzbekistán","Suecia",2026-03-04,"Local",1,0,"Victoria","Amistoso","Soleado",20,39,9,5,46,0,0
+"Uzbekistán","Alemania",2026-02-21,"Visitante",0,1,"Derrota","Eliminatoria","Nublado",22,56,5,3,51,1,0
+"Alemania","Escocia",2026-05-31,"Local",0,1,"Derrota","Oficial","Nublado",18,69,7,6,56,3,0
+"Alemania","Noruega",2026-05-17,"Local",1,1,"Empate","Liga de Naciones","Soleado",18,37,9,4,47,0,0
+"Alemania","Portugal",2026-05-06,"Visitante",1,1,"Empate","Amistoso","Lluvia",16,81,6,7,48,3,0
+"Alemania","Bélgica",2026-04-26,"Local",1,1,"Empate","Eliminatoria","Soleado",29,41,6,6,51,1,0
+"Alemania","Suiza",2026-04-14,"Visitante",0,1,"Derrota","Amistoso","Caluroso",36,42,7,5,56,1,0
+"Alemania","República Checa",2026-04-04,"Local",2,1,"Victoria","Eliminatoria","Soleado",28,56,7,10,56,3,0
+"Alemania","Inglaterra",2026-03-25,"Local",1,2,"Derrota","Eliminatoria","Frio",8,67,4,6,51,1,0
+"Alemania","Jordania",2026-03-14,"Visitante",3,3,"Empate","Eliminatoria","Soleado",29,38,5,10,60,4,0
+"Alemania","Marruecos",2026-03-03,"Visitante",0,4,"Derrota","Eliminatoria","Lluvia",16,79,5,8,35,1,1
+"Alemania","Senegal",2026-02-18,"Local",3,0,"Victoria","Eliminatoria","Soleado",18,47,3,9,57,0,0
+"Bélgica","Austria",2026-05-28,"Local",0,1,"Derrota","Amistoso","Caluroso",29,60,6,4,50,1,1
+"Bélgica","Escocia",2026-05-20,"Local",3,0,"Victoria","Copa","Lluvia",23,94,7,9,49,1,0
+"Bélgica","Portugal",2026-05-09,"Visitante",1,1,"Empate","Oficial","Caluroso",34,43,8,5,52,1,1
+"Bélgica","Croacia",2026-04-26,"Local",2,3,"Derrota","Eliminatoria","Soleado",19,39,6,9,64,3,0
+"Bélgica","Suiza",2026-04-16,"Visitante",0,2,"Derrota","Liga de Naciones","Lluvia",17,85,3,5,47,2,0
+"Bélgica","Alemania",2026-04-04,"Local",2,0,"Victoria","Eliminatoria","Soleado",26,42,3,9,56,2,0
+"Bélgica","Francia",2026-03-25,"Local",1,1,"Empate","Eliminatoria","Frio",11,47,5,4,49,0,1
+"Bélgica","Canadá",2026-03-12,"Local",1,0,"Victoria","Oficial","Frio",7,66,7,6,52,1,0
+"Bélgica","Sudáfrica",2026-03-03,"Visitante",1,1,"Empate","Eliminatoria","Lluvia",16,79,7,6,52,2,0
+"Bélgica","Costa de Marfil",2026-02-21,"Visitante",4,2,"Victoria","Oficial","Nublado",14,66,5,13,58,1,0
+"Bosnia y Herzegovina","Turquía",2026-05-29,"Local",5,0,"Victoria","Eliminatoria","Soleado",20,55,5,13,55,0,0
+"Bosnia y Herzegovina","Suiza",2026-05-19,"Visitante",2,1,"Victoria","Eliminatoria","Lluvia",18,77,8,6,41,3,0
+"Bosnia y Herzegovina","España",2026-05-08,"Visitante",0,1,"Derrota","Liga de Naciones","Lluvia",22,75,8,5,40,1,1
+"Bosnia y Herzegovina","Inglaterra",2026-04-28,"Visitante",0,0,"Empate","Oficial","Nublado",17,67,5,3,48,2,0
+"Bosnia y Herzegovina","Escocia",2026-04-17,"Visitante",2,2,"Empate","Amistoso","Lluvia",22,91,8,9,59,1,0
+"Bosnia y Herzegovina","Países Bajos",2026-04-03,"Visitante",2,1,"Victoria","Oficial","Soleado",25,40,4,8,46,0,0
+"Bosnia y Herzegovina","Noruega",2026-03-23,"Local",1,1,"Empate","Amistoso","Nublado",22,66,4,3,46,0,1
+"Bosnia y Herzegovina","Argentina",2026-03-13,"Local",1,0,"Victoria","Copa","Frio",6,53,7,4,53,1,0
+"Bosnia y Herzegovina","Sudáfrica",2026-03-01,"Local",1,2,"Derrota","Eliminatoria","Lluvia",19,91,9,7,58,0,0
+"Bosnia y Herzegovina","Corea del Sur",2026-02-21,"Local",2,1,"Victoria","Liga de Naciones","Nublado",15,55,8,6,51,1,0
+"Brasil","Colombia",2026-05-29,"Local",1,2,"Derrota","Liga de Naciones","Lluvia",24,84,6,5,56,0,0
+"Brasil","Paraguay",2026-05-18,"Visitante",2,1,"Victoria","Liga de Naciones","Soleado",20,48,7,9,54,0,0
+"Brasil","Argentina",2026-05-06,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",14,79,5,6,50,0,0
+"Brasil","Ecuador",2026-04-28,"Local",3,1,"Victoria","Copa","Soleado",20,42,8,9,62,0,0
+"Brasil","Uruguay",2026-04-17,"Visitante",1,1,"Empate","Eliminatoria","Nublado",24,63,4,7,48,1,0
+"Brasil","Turquía",2026-04-04,"Local",1,1,"Empate","Copa","Soleado",25,35,5,7,62,1,1
+"Brasil","Curazao",2026-03-24,"Visitante",0,0,"Empate","Liga de Naciones","Lluvia",17,72,7,7,49,1,0
+"Brasil","Suecia",2026-03-15,"Local",3,2,"Victoria","Eliminatoria","Frio",7,72,9,11,55,3,1
+"Brasil","República Democrática del Congo",2026-03-02,"Visitante",4,0,"Victoria","Eliminatoria","Lluvia",23,94,4,10,50,0,0
+"Brasil","Cabo Verde",2026-02-20,"Visitante",4,2,"Victoria","Eliminatoria","Nublado",21,68,4,12,53,0,0
+"Cabo Verde","Argelia",2026-05-28,"Local",1,2,"Derrota","Liga de Naciones","Soleado",30,51,9,7,53,0,2
+"Cabo Verde","República Democrática del Congo",2026-05-18,"Local",0,3,"Derrota","Liga de Naciones","Lluvia",19,76,3,4,52,4,1
+"Cabo Verde","Costa de Marfil",2026-05-06,"Visitante",0,1,"Derrota","Amistoso","Lluvia",18,82,5,3,49,0,0
+"Cabo Verde","Egipto",2026-04-27,"Visitante",1,0,"Victoria","Liga de Naciones","Soleado",26,36,9,5,44,1,0
+"Cabo Verde","Sudáfrica",2026-04-15,"Local",1,0,"Victoria","Copa","Caluroso",35,38,5,5,56,1,0
+"Cabo Verde","Marruecos",2026-04-05,"Local",0,2,"Derrota","Eliminatoria","Nublado",23,75,3,4,47,3,0
+"Cabo Verde","Túnez",2026-03-23,"Local",0,1,"Derrota","Eliminatoria","Frio",11,70,5,4,50,0,1
+"Cabo Verde","Noruega",2026-03-13,"Visitante",1,3,"Derrota","Eliminatoria","Soleado",18,57,6,5,36,1,1
+"Cabo Verde","Haití",2026-03-01,"Local",1,1,"Empate","Amistoso","Soleado",27,46,7,6,48,1,1
+"Cabo Verde","Croacia",2026-02-21,"Local",1,2,"Derrota","Eliminatoria","Nublado",20,83,9,6,53,1,0
+"Canadá","Panamá",2026-05-31,"Local",2,2,"Empate","Amistoso","Soleado",25,69,9,7,51,1,0
+"Canadá","Haití",2026-05-20,"Local",2,0,"Victoria","Liga de Naciones","Soleado",23,35,7,11,56,1,1
+"Canadá","México",2026-05-08,"Local",5,1,"Victoria","Eliminatoria","Lluvia",17,94,4,9,61,1,0
+"Canadá","Curazao",2026-04-27,"Visitante",0,1,"Derrota","Oficial","Lluvia",24,76,4,5,53,0,0
+"Canadá","Estados Unidos",2026-04-15,"Visitante",0,1,"Derrota","Amistoso","Nublado",19,62,5,7,47,1,0
+"Canadá","Cabo Verde",2026-04-03,"Local",4,1,"Victoria","Eliminatoria","Nublado",17,80,3,9,53,2,0
+"Canadá","Escocia",2026-03-23,"Local",3,2,"Victoria","Liga de Naciones","Soleado",23,46,8,9,58,1,0
+"Canadá","Inglaterra",2026-03-13,"Local",0,2,"Derrota","Oficial","Soleado",30,55,7,5,57,2,2
+"Canadá","Marruecos",2026-03-02,"Visitante",0,0,"Empate","Amistoso","Nublado",18,59,6,4,53,0,1
+"Canadá","Senegal",2026-02-18,"Visitante",1,0,"Victoria","Amistoso","Nublado",16,78,5,8,45,2,0
+"Catar","Arabia Saudita",2026-05-29,"Local",3,2,"Victoria","Liga de Naciones","Lluvia",21,93,6,8,37,2,1
+"Catar","Irak",2026-05-18,"Visitante",0,3,"Derrota","Eliminatoria","Lluvia",23,86,4,7,45,3,1
+"Catar","Irán",2026-05-08,"Local",3,1,"Victoria","Oficial","Soleado",21,56,3,7,55,3,0
+"Catar","Uzbekistán",2026-04-27,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",19,38,4,7,52,3,1
+"Catar","Japón",2026-04-17,"Visitante",2,0,"Victoria","Copa","Lluvia",23,95,9,8,49,0,0
+"Catar","Corea del Sur",2026-04-06,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",30,42,5,4,59,2,0
+"Catar","Jordania",2026-03-26,"Visitante",1,1,"Empate","Eliminatoria","Soleado",18,56,9,4,44,2,0
+"Catar","Bosnia y Herzegovina",2026-03-15,"Visitante",2,1,"Victoria","Liga de Naciones","Lluvia",24,95,8,5,59,0,1
+"Catar","España",2026-03-02,"Visitante",2,1,"Victoria","Eliminatoria","Nublado",22,79,4,4,44,1,0
+"Catar","Países Bajos",2026-02-19,"Visitante",1,0,"Victoria","Liga de Naciones","Soleado",28,61,8,4,41,0,1
+"Colombia","Argentina",2026-05-30,"Local",2,1,"Victoria","Oficial","Soleado",27,66,8,7,49,0,0
+"Colombia","Paraguay",2026-05-19,"Visitante",1,1,"Empate","Amistoso","Soleado",28,38,5,8,43,3,0
+"Colombia","Ecuador",2026-05-08,"Local",2,0,"Victoria","Copa","Soleado",27,58,5,8,56,0,0
+"Colombia","Uruguay",2026-04-28,"Local",3,2,"Victoria","Oficial","Nublado",22,68,9,8,52,2,0
+"Colombia","Brasil",2026-04-16,"Local",1,1,"Empate","Oficial","Soleado",25,69,9,6,51,0,0
+"Colombia","Bosnia y Herzegovina",2026-04-03,"Visitante",4,0,"Victoria","Liga de Naciones","Soleado",26,56,4,11,44,1,0
+"Colombia","Argelia",2026-03-25,"Local",3,0,"Victoria","Amistoso","Frio",9,46,5,7,58,0,1
+"Colombia","Haití",2026-03-15,"Local",1,0,"Victoria","Eliminatoria","Nublado",17,56,8,8,54,2,0
+"Colombia","Irán",2026-03-04,"Local",2,3,"Derrota","Liga de Naciones","Caluroso",31,57,6,6,50,2,0
+"Colombia","Escocia",2026-02-18,"Local",1,0,"Victoria","Liga de Naciones","Lluvia",21,77,7,6,54,4,1
+"Corea del Sur","Australia",2026-05-29,"Local",2,2,"Empate","Amistoso","Soleado",29,37,6,9,59,0,0
+"Corea del Sur","Jordania",2026-05-19,"Local",2,1,"Victoria","Oficial","Soleado",29,37,8,5,69,2,0
+"Corea del Sur","Catar",2026-05-06,"Visitante",2,2,"Empate","Amistoso","Soleado",27,36,6,5,46,2,1
+"Corea del Sur","Uzbekistán",2026-04-26,"Local",2,2,"Empate","Amistoso","Frio",5,75,7,8,60,1,0
+"Corea del Sur","Arabia Saudita",2026-04-16,"Local",1,5,"Derrota","Eliminatoria","Nublado",19,72,9,5,45,0,0
+"Corea del Sur","Irak",2026-04-06,"Local",2,1,"Victoria","Oficial","Nublado",18,57,6,5,60,0,1
+"Corea del Sur","Japón",2026-03-26,"Local",3,1,"Victoria","Oficial","Lluvia",24,73,5,10,54,3,0
+"Corea del Sur","Canadá",2026-03-13,"Visitante",2,1,"Victoria","Liga de Naciones","Nublado",18,58,6,9,49,0,0
+"Corea del Sur","Bélgica",2026-03-02,"Local",0,2,"Derrota","Amistoso","Nublado",22,81,5,4,42,1,1
+"Corea del Sur","Argelia",2026-02-19,"Visitante",3,1,"Victoria","Amistoso","Soleado",23,52,8,9,57,3,0
+"Costa de Marfil","Egipto",2026-05-29,"Visitante",3,0,"Victoria","Oficial","Soleado",23,40,4,8,44,4,0
+"Costa de Marfil","Sudáfrica",2026-05-18,"Visitante",0,0,"Empate","Eliminatoria","Soleado",27,63,5,5,41,2,0
+"Costa de Marfil","Túnez",2026-05-08,"Visitante",1,1,"Empate","Eliminatoria","Lluvia",15,88,9,4,51,0,0
+"Costa de Marfil","Senegal",2026-04-26,"Local",1,1,"Empate","Eliminatoria","Caluroso",36,44,9,6,58,1,1
+"Costa de Marfil","Cabo Verde",2026-04-14,"Visitante",1,0,"Victoria","Oficial","Soleado",19,52,3,6,47,0,0
+"Costa de Marfil","República Democrática del Congo",2026-04-06,"Visitante",2,2,"Empate","Eliminatoria","Soleado",19,67,7,7,46,0,1
+"Costa de Marfil","Marruecos",2026-03-25,"Local",1,3,"Derrota","Eliminatoria","Soleado",21,66,9,5,51,2,0
+"Costa de Marfil","Catar",2026-03-13,"Local",2,0,"Victoria","Liga de Naciones","Soleado",26,67,5,8,62,3,1
+"Costa de Marfil","Corea del Sur",2026-03-01,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",28,39,6,4,55,2,1
+"Costa de Marfil","Croacia",2026-02-19,"Local",2,0,"Victoria","Amistoso","Nublado",23,72,4,8,50,2,1
+"Croacia","Suecia",2026-05-28,"Local",0,1,"Derrota","Eliminatoria","Frio",11,54,9,3,55,2,0
+"Croacia","Turquía",2026-05-19,"Visitante",4,2,"Victoria","Amistoso","Soleado",22,35,3,11,47,1,1
+"Croacia","España",2026-05-06,"Visitante",0,2,"Derrota","Eliminatoria","Frio",13,73,3,6,52,2,1
+"Croacia","Bélgica",2026-04-27,"Local",1,0,"Victoria","Amistoso","Soleado",19,45,3,5,55,0,1
+"Croacia","Alemania",2026-04-17,"Visitante",1,0,"Victoria","Amistoso","Soleado",25,35,6,6,48,3,0
+"Croacia","Escocia",2026-04-06,"Local",2,2,"Empate","Liga de Naciones","Nublado",19,61,4,11,53,2,1
+"Croacia","Francia",2026-03-23,"Local",0,0,"Empate","Eliminatoria","Frio",12,60,6,6,51,0,0
+"Croacia","Costa de Marfil",2026-03-15,"Local",0,1,"Derrota","Eliminatoria","Lluvia",23,80,5,5,60,0,0
+"Croacia","Uruguay",2026-03-03,"Local",3,0,"Victoria","Copa","Nublado",17,79,8,9,53,0,0
+"Croacia","Irak",2026-02-18,"Visitante",2,0,"Victoria","Liga de Naciones","Soleado",27,46,9,8,56,2,0
+"Curazao","Estados Unidos",2026-05-29,"Local",2,1,"Victoria","Eliminatoria","Soleado",30,38,4,3,57,1,1
+"Curazao","Canadá",2026-05-18,"Visitante",1,1,"Empate","Eliminatoria","Lluvia",18,82,3,4,44,2,0
+"Curazao","Panamá",2026-05-08,"Visitante",0,2,"Derrota","Oficial","Caluroso",33,65,3,6,47,1,0
+"Curazao","México",2026-04-26,"Visitante",0,2,"Derrota","Eliminatoria","Frio",13,56,5,3,47,0,0
+"Curazao","Haití",2026-04-14,"Visitante",0,4,"Derrota","Amistoso","Soleado",30,35,8,6,40,0,0
+"Curazao","Sudáfrica",2026-04-04,"Local",2,0,"Victoria","Eliminatoria","Lluvia",16,79,3,5,50,1,0
+"Curazao","Uruguay",2026-03-24,"Local",0,2,"Derrota","Amistoso","Nublado",16,80,8,1,40,2,0
+"Curazao","Argelia",2026-03-15,"Visitante",3,3,"Empate","Eliminatoria","Soleado",28,53,7,7,46,2,0
+"Curazao","Ghana",2026-03-03,"Visitante",1,3,"Derrota","Liga de Naciones","Lluvia",15,92,6,4,36,0,0
+"Curazao","Irak",2026-02-20,"Local",1,0,"Victoria","Oficial","Nublado",23,68,8,7,49,3,0
+"Ecuador","Uruguay",2026-05-29,"Local",1,1,"Empate","Liga de Naciones","Soleado",19,67,4,7,49,0,0
+"Ecuador","Paraguay",2026-05-17,"Visitante",1,0,"Victoria","Copa","Lluvia",25,90,8,7,48,1,0
+"Ecuador","Argentina",2026-05-07,"Local",0,1,"Derrota","Amistoso","Nublado",22,78,8,2,49,0,0
+"Ecuador","Brasil",2026-04-28,"Local",0,1,"Derrota","Eliminatoria","Soleado",27,55,8,4,56,2,1
+"Ecuador","Colombia",2026-04-15,"Local",2,1,"Victoria","Eliminatoria","Soleado",18,69,4,6,50,1,2
+"Ecuador","Ghana",2026-04-06,"Visitante",1,0,"Victoria","Amistoso","Soleado",22,42,5,6,40,1,0
+"Ecuador","Curazao",2026-03-23,"Local",1,0,"Victoria","Oficial","Caluroso",32,58,4,7,55,1,0
+"Ecuador","Catar",2026-03-15,"Visitante",5,3,"Victoria","Eliminatoria","Caluroso",34,58,5,10,49,1,0
+"Ecuador","Irak",2026-03-02,"Visitante",2,0,"Victoria","Eliminatoria","Frio",9,54,4,12,53,1,0
+"Ecuador","España",2026-02-20,"Local",1,3,"Derrota","Eliminatoria","Lluvia",22,92,8,5,54,1,0
+"Egipto","Marruecos",2026-05-28,"Visitante",0,1,"Derrota","Amistoso","Soleado",25,46,5,1,50,1,0
+"Egipto","Sudáfrica",2026-05-18,"Local",4,0,"Victoria","Liga de Naciones","Caluroso",31,61,6,12,47,0,1
+"Egipto","Túnez",2026-05-07,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",24,37,3,6,54,0,0
+"Egipto","Cabo Verde",2026-04-27,"Visitante",0,0,"Empate","Eliminatoria","Nublado",22,81,8,6,55,0,0
+"Egipto","Argelia",2026-04-15,"Local",2,3,"Derrota","Copa","Soleado",21,66,6,9,55,2,0
+"Egipto","Senegal",2026-04-03,"Local",1,1,"Empate","Copa","Nublado",19,64,6,4,55,0,0
+"Egipto","República Democrática del Congo",2026-03-25,"Local",2,0,"Victoria","Liga de Naciones","Lluvia",23,95,5,8,46,1,0
+"Egipto","Uzbekistán",2026-03-15,"Local",0,1,"Derrota","Eliminatoria","Soleado",18,60,3,3,48,1,1
+"Egipto","Croacia",2026-03-02,"Local",3,2,"Victoria","Eliminatoria","Lluvia",15,82,3,8,49,3,0
+"Egipto","Paraguay",2026-02-20,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",36,62,7,3,47,0,1
+"Escocia","Noruega",2026-05-29,"Visitante",2,2,"Empate","Oficial","Nublado",17,77,7,10,54,1,1
+"Escocia","Francia",2026-05-18,"Local",1,2,"Derrota","Eliminatoria","Lluvia",25,78,8,6,52,0,0
+"Escocia","Bosnia y Herzegovina",2026-05-08,"Visitante",1,0,"Victoria","Eliminatoria","Soleado",21,67,9,6,50,0,1
+"Escocia","Turquía",2026-04-27,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",22,79,8,7,51,1,0
+"Escocia","Alemania",2026-04-17,"Local",0,1,"Derrota","Eliminatoria","Soleado",22,64,5,5,47,2,1
+"Escocia","España",2026-04-03,"Visitante",0,1,"Derrota","Amistoso","Nublado",15,81,6,5,38,0,0
+"Escocia","Croacia",2026-03-23,"Visitante",0,1,"Derrota","Eliminatoria","Nublado",17,80,4,6,45,2,1
+"Escocia","Corea del Sur",2026-03-13,"Local",3,2,"Victoria","Liga de Naciones","Soleado",30,40,3,9,50,0,0
+"Escocia","República Democrática del Congo",2026-03-04,"Visitante",0,4,"Derrota","Oficial","Lluvia",19,93,9,7,45,0,0
+"Escocia","Curazao",2026-02-19,"Visitante",2,2,"Empate","Eliminatoria","Frio",6,69,8,9,45,2,0
+"España","Bosnia y Herzegovina",2026-05-31,"Local",4,0,"Victoria","Oficial","Caluroso",28,34,6,10,48,1,0
+"España","Francia",2026-05-17,"Visitante",4,1,"Victoria","Eliminatoria","Nublado",24,84,3,10,55,0,1
+"España","República Checa",2026-05-06,"Visitante",2,1,"Victoria","Eliminatoria","Nublado",16,85,5,8,56,0,0
+"España","Bélgica",2026-04-27,"Local",0,1,"Derrota","Eliminatoria","Frio",6,65,3,5,59,3,0
+"España","Croacia",2026-04-16,"Visitante",0,1,"Derrota","Oficial","Soleado",22,70,5,4,47,0,1
+"España","Austria",2026-04-04,"Local",6,1,"Victoria","Liga de Naciones","Soleado",21,45,6,10,54,0,1
+"España","Suiza",2026-03-23,"Local",2,0,"Victoria","Liga de Naciones","Caluroso",32,47,3,8,49,1,0
+"España","Catar",2026-03-12,"Local",2,1,"Victoria","Eliminatoria","Soleado",25,66,9,7,53,2,0
+"España","Marruecos",2026-03-01,"Visitante",1,1,"Empate","Eliminatoria","Nublado",22,61,4,6,49,0,0
+"España","Egipto",2026-02-19,"Local",1,1,"Empate","Liga de Naciones","Soleado",30,57,4,7,57,0,0
+"Estados Unidos","México",2026-05-30,"Visitante",3,1,"Victoria","Eliminatoria","Nublado",21,81,7,10,45,3,2
+"Estados Unidos","Canadá",2026-05-18,"Local",3,1,"Victoria","Liga de Naciones","Soleado",30,44,9,9,54,1,0
+"Estados Unidos","Panamá",2026-05-09,"Local",1,0,"Victoria","Eliminatoria","Soleado",20,38,6,9,63,1,0
+"Estados Unidos","Haití",2026-04-28,"Local",2,1,"Victoria","Eliminatoria","Soleado",26,54,3,8,52,0,0
+"Estados Unidos","Curazao",2026-04-15,"Visitante",2,0,"Victoria","Amistoso","Nublado",17,79,6,8,56,2,0
+"Estados Unidos","Uruguay",2026-04-04,"Visitante",1,3,"Derrota","Copa","Nublado",19,56,6,8,46,1,0
+"Estados Unidos","Cabo Verde",2026-03-24,"Local",1,1,"Empate","Eliminatoria","Frio",4,63,8,5,53,0,0
+"Estados Unidos","Escocia",2026-03-13,"Local",0,1,"Derrota","Oficial","Lluvia",22,89,4,5,49,1,0
+"Estados Unidos","Irak",2026-03-03,"Visitante",0,0,"Empate","Amistoso","Nublado",23,61,7,3,42,0,0
+"Estados Unidos","Inglaterra",2026-02-18,"Visitante",0,1,"Derrota","Eliminatoria","Nublado",22,70,5,6,49,1,0
+"Francia","Austria",2026-05-31,"Visitante",2,0,"Victoria","Amistoso","Caluroso",31,50,7,7,41,3,0
+"Francia","República Checa",2026-05-18,"Local",5,1,"Victoria","Eliminatoria","Soleado",20,50,5,14,60,0,0
+"Francia","Países Bajos",2026-05-07,"Local",2,1,"Victoria","Copa","Caluroso",35,38,9,7,45,2,0
+"Francia","Croacia",2026-04-28,"Visitante",1,0,"Victoria","Oficial","Frio",11,51,6,3,47,2,1
+"Francia","Noruega",2026-04-14,"Local",2,0,"Victoria","Liga de Naciones","Caluroso",28,33,4,7,59,0,0
+"Francia","Escocia",2026-04-05,"Visitante",1,1,"Empate","Eliminatoria","Nublado",23,73,7,6,54,3,0
+"Francia","Suecia",2026-03-24,"Visitante",0,2,"Derrota","Copa","Lluvia",25,73,9,8,57,2,1
+"Francia","Ghana",2026-03-12,"Visitante",1,1,"Empate","Eliminatoria","Soleado",30,52,7,4,52,0,0
+"Francia","Cabo Verde",2026-03-03,"Visitante",4,0,"Victoria","Liga de Naciones","Nublado",18,83,5,9,51,2,0
+"Francia","Sudáfrica",2026-02-18,"Local",3,0,"Victoria","Oficial","Soleado",29,57,9,8,60,0,0
+"Ghana","Argelia",2026-05-30,"Local",3,1,"Victoria","Eliminatoria","Soleado",29,35,5,8,50,1,1
+"Ghana","Costa de Marfil",2026-05-18,"Local",1,1,"Empate","Eliminatoria","Lluvia",18,72,9,7,53,0,0
+"Ghana","Marruecos",2026-05-06,"Local",1,1,"Empate","Oficial","Nublado",19,56,4,5,45,1,0
+"Ghana","Egipto",2026-04-26,"Visitante",3,0,"Victoria","Amistoso","Caluroso",30,46,9,7,34,1,0
+"Ghana","Cabo Verde",2026-04-16,"Local",1,3,"Derrota","Eliminatoria","Nublado",17,65,9,3,48,1,0
+"Ghana","República Democrática del Congo",2026-04-05,"Local",1,0,"Victoria","Eliminatoria","Frio",12,54,3,6,60,0,1
+"Ghana","Senegal",2026-03-25,"Visitante",0,3,"Derrota","Eliminatoria","Nublado",17,61,7,6,43,3,1
+"Ghana","Escocia",2026-03-13,"Visitante",1,0,"Victoria","Eliminatoria","Lluvia",16,70,5,5,41,2,0
+"Ghana","Argentina",2026-03-03,"Local",2,1,"Victoria","Liga de Naciones","Soleado",23,54,3,5,53,2,0
+"Ghana","Noruega",2026-02-19,"Local",0,1,"Derrota","Eliminatoria","Frio",4,51,4,3,48,0,2
+"Haití","Canadá",2026-05-30,"Local",2,1,"Victoria","Amistoso","Nublado",14,55,9,7,39,1,2
+"Haití","México",2026-05-20,"Visitante",1,2,"Derrota","Liga de Naciones","Caluroso",29,62,5,4,45,4,0
+"Haití","Panamá",2026-05-09,"Visitante",0,2,"Derrota","Amistoso","Lluvia",20,83,3,4,36,1,1
+"Haití","Curazao",2026-04-25,"Visitante",3,1,"Victoria","Copa","Nublado",22,55,8,9,51,1,0
+"Haití","Estados Unidos",2026-04-16,"Visitante",2,3,"Derrota","Eliminatoria","Nublado",21,67,8,6,47,1,0
+"Haití","Jordania",2026-04-03,"Visitante",2,2,"Empate","Eliminatoria","Nublado",16,75,6,10,52,2,1
+"Haití","Bosnia y Herzegovina",2026-03-23,"Local",1,1,"Empate","Eliminatoria","Soleado",29,67,8,6,56,2,0
+"Haití","Uruguay",2026-03-13,"Local",2,0,"Victoria","Eliminatoria","Soleado",25,53,7,7,44,1,0
+"Haití","Francia",2026-03-04,"Local",0,1,"Derrota","Amistoso","Soleado",29,64,8,4,48,0,0
+"Haití","Australia",2026-02-18,"Visitante",0,2,"Derrota","Eliminatoria","Soleado",26,36,3,3,40,1,1
+"Inglaterra","Alemania",2026-05-29,"Visitante",0,0,"Empate","Oficial","Lluvia",25,76,9,5,64,1,0
+"Inglaterra","Austria",2026-05-20,"Local",4,0,"Victoria","Amistoso","Frio",9,69,8,6,64,3,1
+"Inglaterra","Países Bajos",2026-05-07,"Visitante",0,2,"Derrota","Copa","Soleado",19,37,8,5,38,0,0
+"Inglaterra","Suiza",2026-04-28,"Visitante",1,0,"Victoria","Eliminatoria","Soleado",19,56,8,4,54,3,0
+"Inglaterra","Bélgica",2026-04-15,"Local",2,1,"Victoria","Oficial","Lluvia",19,92,8,9,53,0,0
+"Inglaterra","Turquía",2026-04-03,"Local",1,1,"Empate","Eliminatoria","Soleado",22,37,7,7,48,1,0
+"Inglaterra","España",2026-03-23,"Local",4,1,"Victoria","Amistoso","Caluroso",29,50,7,12,60,4,0
+"Inglaterra","Egipto",2026-03-15,"Visitante",3,0,"Victoria","Oficial","Nublado",18,71,4,8,43,0,1
+"Inglaterra","Argelia",2026-03-01,"Visitante",0,2,"Derrota","Eliminatoria","Caluroso",30,50,9,5,48,1,0
+"Inglaterra","República Democrática del Congo",2026-02-18,"Visitante",2,1,"Victoria","Eliminatoria","Frio",7,72,8,7,50,0,1
+"Irak","Corea del Sur",2026-05-28,"Visitante",0,3,"Derrota","Amistoso","Soleado",26,35,7,3,51,0,0
+"Irak","Jordania",2026-05-17,"Local",2,0,"Victoria","Eliminatoria","Soleado",22,64,4,6,51,1,0
+"Irak","Catar",2026-05-08,"Local",1,1,"Empate","Amistoso","Caluroso",28,39,5,4,51,0,0
+"Irak","Irán",2026-04-26,"Local",2,1,"Victoria","Amistoso","Soleado",21,50,3,6,45,0,2
+"Irak","Japón",2026-04-17,"Local",3,1,"Victoria","Eliminatoria","Lluvia",16,73,8,7,57,1,1
+"Irak","Australia",2026-04-05,"Local",1,1,"Empate","Liga de Naciones","Frio",7,51,3,6,56,1,0
+"Irak","Uzbekistán",2026-03-26,"Visitante",1,1,"Empate","Eliminatoria","Soleado",29,61,6,8,47,1,0
+"Irak","Croacia",2026-03-13,"Local",1,0,"Victoria","Eliminatoria","Soleado",24,61,6,4,35,0,1
+"Irak","Francia",2026-03-01,"Local",1,2,"Derrota","Eliminatoria","Soleado",20,36,9,2,49,0,1
+"Irak","Estados Unidos",2026-02-19,"Local",1,0,"Victoria","Amistoso","Frio",10,62,3,3,54,1,0
+"Irán","Japón",2026-05-31,"Visitante",1,0,"Victoria","Eliminatoria","Lluvia",21,89,3,7,49,2,0
+"Irán","Irak",2026-05-18,"Visitante",0,2,"Derrota","Eliminatoria","Caluroso",35,42,8,4,51,3,0
+"Irán","Uzbekistán",2026-05-09,"Visitante",1,2,"Derrota","Eliminatoria","Frio",12,54,7,6,55,1,0
+"Irán","Corea del Sur",2026-04-26,"Local",1,3,"Derrota","Eliminatoria","Frio",9,59,7,10,54,0,0
+"Irán","Arabia Saudita",2026-04-16,"Local",1,0,"Victoria","Eliminatoria","Frio",8,54,9,5,47,1,1
+"Irán","Australia",2026-04-04,"Visitante",3,0,"Victoria","Eliminatoria","Soleado",18,40,4,11,48,0,0
+"Irán","Jordania",2026-03-23,"Visitante",3,2,"Victoria","Liga de Naciones","Soleado",20,56,4,11,57,0,0
+"Irán","Curazao",2026-03-12,"Local",0,2,"Derrota","Eliminatoria","Frio",11,63,3,6,59,1,0
+"Irán","Turquía",2026-03-03,"Visitante",2,1,"Victoria","Amistoso","Nublado",16,62,8,6,53,1,0
+"Irán","Países Bajos",2026-02-18,"Visitante",1,1,"Empate","Eliminatoria","Caluroso",29,61,4,5,46,1,0
+"Japón","Irak",2026-05-30,"Local",1,1,"Empate","Liga de Naciones","Soleado",22,53,5,6,54,0,0
+"Japón","Catar",2026-05-20,"Visitante",2,2,"Empate","Eliminatoria","Lluvia",15,73,5,8,54,0,0
+"Japón","Irán",2026-05-09,"Visitante",1,3,"Derrota","Copa","Soleado",19,35,8,4,61,0,1
+"Japón","Arabia Saudita",2026-04-27,"Local",1,1,"Empate","Amistoso","Soleado",25,53,5,7,61,0,0
+"Japón","Australia",2026-04-14,"Local",2,0,"Victoria","Eliminatoria","Caluroso",28,35,4,10,54,0,1
+"Japón","Jordania",2026-04-04,"Local",2,0,"Victoria","Amistoso","Nublado",21,59,4,7,59,1,0
+"Japón","Uzbekistán",2026-03-25,"Local",2,1,"Victoria","Liga de Naciones","Soleado",27,68,7,8,46,1,0
+"Japón","Argentina",2026-03-14,"Visitante",0,0,"Empate","Amistoso","Soleado",29,45,7,4,54,1,0
+"Japón","Suecia",2026-03-01,"Local",0,0,"Empate","Amistoso","Lluvia",25,79,4,5,49,3,0
+"Japón","Haití",2026-02-20,"Visitante",0,2,"Derrota","Liga de Naciones","Soleado",25,50,7,5,47,0,0
+"Jordania","Irak",2026-05-30,"Local",1,2,"Derrota","Amistoso","Nublado",15,70,8,4,53,0,0
+"Jordania","Irán",2026-05-20,"Local",0,2,"Derrota","Copa","Soleado",26,52,3,2,51,1,1
+"Jordania","Uzbekistán",2026-05-08,"Visitante",0,0,"Empate","Eliminatoria","Lluvia",21,80,8,3,48,0,0
+"Jordania","Catar",2026-04-27,"Local",0,0,"Empate","Amistoso","Soleado",25,56,6,2,54,2,0
+"Jordania","Arabia Saudita",2026-04-16,"Visitante",1,1,"Empate","Eliminatoria","Soleado",20,63,8,5,43,2,0
+"Jordania","Japón",2026-04-03,"Visitante",2,0,"Victoria","Amistoso","Nublado",17,68,4,7,43,3,0
+"Jordania","Australia",2026-03-26,"Local",0,2,"Derrota","Eliminatoria","Soleado",27,47,8,3,51,1,1
+"Jordania","Noruega",2026-03-15,"Local",1,1,"Empate","Liga de Naciones","Caluroso",29,32,9,6,45,1,1
+"Jordania","Suiza",2026-03-01,"Visitante",0,0,"Empate","Copa","Nublado",15,81,6,4,50,1,1
+"Jordania","España",2026-02-21,"Local",0,2,"Derrota","Copa","Nublado",17,62,5,2,44,1,0
+"Marruecos","Costa de Marfil",2026-05-30,"Visitante",4,0,"Victoria","Liga de Naciones","Soleado",26,40,4,10,42,2,1
+"Marruecos","Sudáfrica",2026-05-18,"Local",2,1,"Victoria","Oficial","Soleado",22,36,3,5,51,0,0
+"Marruecos","Argelia",2026-05-08,"Visitante",2,3,"Derrota","Copa","Soleado",23,65,6,10,42,0,0
+"Marruecos","Ghana",2026-04-28,"Local",2,2,"Empate","Eliminatoria","Nublado",21,64,7,8,56,0,0
+"Marruecos","República Democrática del Congo",2026-04-15,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",29,45,4,5,56,1,0
+"Marruecos","Senegal",2026-04-04,"Local",1,2,"Derrota","Eliminatoria","Nublado",16,64,8,6,52,0,1
+"Marruecos","Túnez",2026-03-26,"Local",1,1,"Empate","Eliminatoria","Soleado",30,46,7,6,51,1,1
+"Marruecos","Brasil",2026-03-15,"Local",1,0,"Victoria","Eliminatoria","Soleado",21,43,6,7,51,0,0
+"Marruecos","Argentina",2026-03-02,"Local",1,1,"Empate","Liga de Naciones","Soleado",28,51,4,3,53,1,0
+"Marruecos","Austria",2026-02-19,"Visitante",2,1,"Victoria","Liga de Naciones","Nublado",21,72,6,7,54,1,1
+"México","Haití",2026-05-30,"Local",3,1,"Victoria","Copa","Soleado",18,56,8,8,55,2,0
+"México","Panamá",2026-05-20,"Local",1,0,"Victoria","Eliminatoria","Soleado",25,35,4,7,59,2,0
+"México","Canadá",2026-05-07,"Local",2,0,"Victoria","Oficial","Nublado",16,58,5,7,50,0,0
+"México","Estados Unidos",2026-04-25,"Local",1,2,"Derrota","Eliminatoria","Lluvia",15,74,5,8,61,3,1
+"México","Curazao",2026-04-15,"Local",2,1,"Victoria","Amistoso","Nublado",19,57,3,8,53,0,0
+"México","Costa de Marfil",2026-04-06,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",33,43,7,3,50,1,0
+"México","Senegal",2026-03-23,"Local",1,1,"Empate","Liga de Naciones","Caluroso",33,64,5,7,63,1,1
+"México","Portugal",2026-03-13,"Visitante",1,2,"Derrota","Liga de Naciones","Nublado",18,65,8,2,55,1,0
+"México","Corea del Sur",2026-03-01,"Local",2,1,"Victoria","Oficial","Soleado",18,59,6,8,57,0,0
+"México","Brasil",2026-02-19,"Local",2,4,"Derrota","Eliminatoria","Nublado",22,65,8,4,44,2,0
+"Noruega","España",2026-05-28,"Local",1,1,"Empate","Oficial","Nublado",17,82,8,3,55,2,1
+"Noruega","Bosnia y Herzegovina",2026-05-17,"Local",3,2,"Victoria","Oficial","Soleado",24,50,8,8,58,1,0
+"Noruega","República Checa",2026-05-09,"Visitante",1,0,"Victoria","Oficial","Soleado",20,44,7,8,49,2,1
+"Noruega","Escocia",2026-04-27,"Visitante",1,1,"Empate","Oficial","Lluvia",20,90,8,3,52,0,1
+"Noruega","Países Bajos",2026-04-17,"Visitante",0,0,"Empate","Eliminatoria","Soleado",25,48,9,4,43,0,1
+"Noruega","Francia",2026-04-03,"Visitante",1,2,"Derrota","Eliminatoria","Nublado",16,66,9,7,44,3,2
+"Noruega","Turquía",2026-03-23,"Visitante",0,0,"Empate","Oficial","Lluvia",19,71,3,4,40,1,1
+"Noruega","Australia",2026-03-15,"Visitante",0,0,"Empate","Copa","Soleado",25,62,4,5,54,0,2
+"Noruega","Uruguay",2026-03-02,"Local",3,1,"Victoria","Liga de Naciones","Soleado",30,39,9,9,41,0,0
+"Noruega","Sudáfrica",2026-02-20,"Visitante",2,1,"Victoria","Eliminatoria","Nublado",20,71,5,11,50,1,0
+"Nueva Zelanda","Canadá",2026-05-28,"Local",2,3,"Derrota","Amistoso","Caluroso",32,40,6,7,48,0,0
+"Nueva Zelanda","Irak",2026-05-17,"Visitante",0,2,"Derrota","Eliminatoria","Lluvia",21,90,6,6,53,1,0
+"Nueva Zelanda","República Democrática del Congo",2026-05-08,"Local",0,1,"Derrota","Eliminatoria","Soleado",25,54,4,1,55,0,0
+"Nueva Zelanda","Jordania",2026-04-26,"Visitante",0,0,"Empate","Amistoso","Soleado",22,57,4,6,32,0,0
+"Nueva Zelanda","Panamá",2026-04-17,"Local",2,1,"Victoria","Eliminatoria","Frio",8,56,9,8,55,1,0
+"Nueva Zelanda","Japón",2026-04-03,"Visitante",0,4,"Derrota","Oficial","Frio",4,50,7,6,47,2,1
+"Nueva Zelanda","Catar",2026-03-26,"Visitante",0,3,"Derrota","Amistoso","Soleado",25,68,7,4,58,2,0
+"Nueva Zelanda","Colombia",2026-03-12,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",29,66,5,5,42,1,0
+"Nueva Zelanda","Brasil",2026-03-03,"Local",2,0,"Victoria","Eliminatoria","Nublado",19,78,5,5,58,3,2
+"Nueva Zelanda","Australia",2026-02-19,"Local",0,0,"Empate","Eliminatoria","Soleado",25,46,3,5,56,0,2
+"Países Bajos","Bosnia y Herzegovina",2026-05-29,"Local",4,0,"Victoria","Eliminatoria","Soleado",25,60,3,9,55,1,0
+"Países Bajos","Portugal",2026-05-18,"Local",1,0,"Victoria","Eliminatoria","Caluroso",28,38,5,6,48,2,0
+"Países Bajos","Noruega",2026-05-09,"Local",2,2,"Empate","Liga de Naciones","Nublado",22,79,6,6,60,0,0
+"Países Bajos","República Checa",2026-04-25,"Local",4,0,"Victoria","Eliminatoria","Frio",9,52,9,12,52,0,0
+"Países Bajos","España",2026-04-15,"Visitante",3,1,"Victoria","Copa","Lluvia",20,86,5,9,43,1,0
+"Países Bajos","Austria",2026-04-04,"Visitante",3,0,"Victoria","Amistoso","Lluvia",25,95,4,7,53,0,0
+"Países Bajos","Alemania",2026-03-26,"Visitante",2,1,"Victoria","Amistoso","Soleado",20,55,5,6,42,1,0
+"Países Bajos","Irak",2026-03-13,"Local",2,1,"Victoria","Copa","Lluvia",17,93,3,9,55,1,1
+"Países Bajos","Japón",2026-03-01,"Visitante",2,0,"Victoria","Eliminatoria","Nublado",24,62,5,9,43,1,1
+"Países Bajos","Paraguay",2026-02-18,"Visitante",0,0,"Empate","Amistoso","Nublado",17,58,3,6,39,3,1
+"Panamá","México",2026-05-30,"Local",3,1,"Victoria","Liga de Naciones","Nublado",24,80,8,8,47,0,0
+"Panamá","Curazao",2026-05-18,"Local",1,4,"Derrota","Amistoso","Lluvia",18,82,4,7,56,1,0
+"Panamá","Canadá",2026-05-07,"Visitante",2,1,"Victoria","Oficial","Caluroso",33,46,8,8,39,0,1
+"Panamá","Estados Unidos",2026-04-27,"Visitante",1,1,"Empate","Eliminatoria","Nublado",21,81,7,2,54,3,0
+"Panamá","Haití",2026-04-17,"Visitante",0,2,"Derrota","Amistoso","Lluvia",20,83,7,5,49,0,1
+"Panamá","Túnez",2026-04-03,"Local",0,0,"Empate","Eliminatoria","Soleado",22,54,5,6,44,3,0
+"Panamá","Austria",2026-03-23,"Local",1,1,"Empate","Eliminatoria","Nublado",22,60,8,5,43,1,1
+"Panamá","Inglaterra",2026-03-13,"Local",1,4,"Derrota","Eliminatoria","Nublado",15,84,9,5,44,0,0
+"Panamá","Ecuador",2026-03-02,"Visitante",0,0,"Empate","Amistoso","Soleado",21,55,5,4,41,2,0
+"Panamá","Francia",2026-02-21,"Visitante",0,1,"Derrota","Eliminatoria","Caluroso",34,32,8,4,40,1,0
+"Paraguay","Argentina",2026-05-31,"Local",0,0,"Empate","Eliminatoria","Soleado",27,45,9,1,51,2,0
+"Paraguay","Colombia",2026-05-20,"Visitante",1,2,"Derrota","Eliminatoria","Lluvia",20,79,5,2,48,1,0
+"Paraguay","Ecuador",2026-05-08,"Local",2,1,"Victoria","Eliminatoria","Soleado",19,40,6,7,53,0,1
+"Paraguay","Brasil",2026-04-25,"Local",2,2,"Empate","Eliminatoria","Soleado",19,50,5,8,49,1,1
+"Paraguay","Uruguay",2026-04-15,"Local",1,0,"Victoria","Eliminatoria","Nublado",15,71,9,6,45,1,0
+"Paraguay","Catar",2026-04-03,"Local",1,1,"Empate","Oficial","Soleado",20,56,3,6,53,1,0
+"Paraguay","Alemania",2026-03-25,"Local",1,0,"Victoria","Eliminatoria","Frio",10,69,3,6,35,2,0
+"Paraguay","Suiza",2026-03-15,"Local",0,0,"Empate","Amistoso","Nublado",14,70,9,4,54,3,0
+"Paraguay","Argelia",2026-03-01,"Local",3,1,"Victoria","Eliminatoria","Caluroso",30,33,8,6,47,1,0
+"Paraguay","República Checa",2026-02-20,"Visitante",1,0,"Victoria","Eliminatoria","Soleado",23,46,7,6,52,0,1
+"Portugal","Alemania",2026-05-31,"Local",0,1,"Derrota","Eliminatoria","Soleado",20,51,4,6,61,0,1
+"Portugal","Bélgica",2026-05-18,"Visitante",0,1,"Derrota","Eliminatoria","Frio",12,59,5,3,47,1,0
+"Portugal","Bosnia y Herzegovina",2026-05-07,"Local",4,1,"Victoria","Copa","Frio",5,45,3,10,62,0,0
+"Portugal","Inglaterra",2026-04-26,"Visitante",1,1,"Empate","Amistoso","Caluroso",30,63,9,6,40,2,0
+"Portugal","Austria",2026-04-14,"Local",1,0,"Victoria","Liga de Naciones","Nublado",16,57,4,8,55,1,0
+"Portugal","Suecia",2026-04-03,"Visitante",1,0,"Victoria","Eliminatoria","Frio",6,67,9,7,55,2,0
+"Portugal","Noruega",2026-03-24,"Local",4,3,"Victoria","Oficial","Nublado",17,77,9,12,46,2,0
+"Portugal","Ghana",2026-03-13,"Local",1,0,"Victoria","Amistoso","Nublado",15,61,7,5,64,0,0
+"Portugal","Argelia",2026-03-03,"Visitante",0,0,"Empate","Oficial","Frio",13,46,8,3,55,1,0
+"Portugal","Costa de Marfil",2026-02-20,"Local",2,0,"Victoria","Eliminatoria","Lluvia",18,84,5,7,54,0,0
+"República Checa","Turquía",2026-05-29,"Visitante",0,2,"Derrota","Oficial","Nublado",20,84,9,5,56,2,0
+"República Checa","Alemania",2026-05-20,"Local",0,1,"Derrota","Oficial","Frio",14,51,8,5,45,1,2
+"República Checa","Suecia",2026-05-06,"Local",1,1,"Empate","Liga de Naciones","Frio",10,67,5,5,53,0,0
+"República Checa","Bélgica",2026-04-27,"Local",3,1,"Victoria","Copa","Caluroso",31,64,7,8,57,0,0
+"República Checa","Noruega",2026-04-14,"Visitante",2,0,"Victoria","Liga de Naciones","Soleado",18,44,7,7,52,1,0
+"República Checa","Países Bajos",2026-04-05,"Local",2,4,"Derrota","Eliminatoria","Caluroso",30,34,6,6,48,1,0
+"República Checa","Croacia",2026-03-25,"Local",0,1,"Derrota","Amistoso","Caluroso",36,53,3,2,45,0,0
+"República Checa","Japón",2026-03-13,"Local",1,0,"Victoria","Eliminatoria","Soleado",27,70,7,4,51,0,1
+"República Checa","Senegal",2026-03-01,"Local",2,2,"Empate","Eliminatoria","Frio",12,62,7,5,66,1,0
+"República Checa","Cabo Verde",2026-02-18,"Local",1,0,"Victoria","Liga de Naciones","Lluvia",18,88,5,6,52,1,2
+"República Democrática del Congo","Sudáfrica",2026-05-31,"Local",0,0,"Empate","Copa","Lluvia",15,93,3,6,55,2,0
+"República Democrática del Congo","Marruecos",2026-05-19,"Visitante",0,2,"Derrota","Copa","Soleado",23,42,9,4,43,1,1
+"República Democrática del Congo","Argelia",2026-05-09,"Local",2,2,"Empate","Oficial","Soleado",22,45,4,6,54,0,0
+"República Democrática del Congo","Ghana",2026-04-28,"Visitante",5,3,"Victoria","Eliminatoria","Soleado",20,44,4,11,47,1,0
+"República Democrática del Congo","Cabo Verde",2026-04-15,"Local",1,4,"Derrota","Liga de Naciones","Nublado",24,73,7,4,51,2,0
+"República Democrática del Congo","Túnez",2026-04-04,"Local",0,0,"Empate","Eliminatoria","Caluroso",29,60,9,1,47,1,0
+"República Democrática del Congo","Senegal",2026-03-25,"Local",1,1,"Empate","Amistoso","Nublado",14,58,4,5,51,1,0
+"República Democrática del Congo","Inglaterra",2026-03-13,"Local",1,2,"Derrota","Oficial","Soleado",19,52,8,5,47,1,0
+"República Democrática del Congo","Uruguay",2026-03-04,"Visitante",0,1,"Derrota","Oficial","Caluroso",28,56,7,3,40,1,0
+"República Democrática del Congo","México",2026-02-19,"Local",1,2,"Derrota","Amistoso","Caluroso",35,53,6,3,48,0,0
+"Senegal","Cabo Verde",2026-05-29,"Visitante",3,0,"Victoria","Oficial","Nublado",17,83,5,10,51,3,2
+"Senegal","Sudáfrica",2026-05-19,"Visitante",3,1,"Victoria","Amistoso","Nublado",23,85,7,9,52,3,0
+"Senegal","Argelia",2026-05-07,"Visitante",1,1,"Empate","Oficial","Frio",7,51,7,6,40,1,0
+"Senegal","Marruecos",2026-04-28,"Local",1,0,"Victoria","Liga de Naciones","Soleado",20,42,8,8,56,0,0
+"Senegal","Ghana",2026-04-16,"Visitante",0,0,"Empate","Amistoso","Lluvia",23,91,3,7,52,2,0
+"Senegal","Costa de Marfil",2026-04-05,"Visitante",2,1,"Victoria","Eliminatoria","Soleado",29,64,7,8,56,0,0
+"Senegal","Egipto",2026-03-24,"Local",0,1,"Derrota","Copa","Soleado",25,69,6,5,49,1,0
+"Senegal","Alemania",2026-03-13,"Visitante",1,1,"Empate","Eliminatoria","Nublado",21,63,6,3,51,3,0
+"Senegal","Canadá",2026-03-04,"Local",2,2,"Empate","Oficial","Soleado",21,62,7,7,44,0,0
+"Senegal","Uzbekistán",2026-02-21,"Visitante",1,0,"Victoria","Oficial","Soleado",19,58,9,9,46,2,0
+"Sudáfrica","Costa de Marfil",2026-05-28,"Local",1,1,"Empate","Eliminatoria","Lluvia",18,70,9,3,39,2,0
+"Sudáfrica","Senegal",2026-05-19,"Local",0,3,"Derrota","Eliminatoria","Lluvia",20,84,8,4,45,1,0
+"Sudáfrica","Ghana",2026-05-07,"Visitante",3,2,"Victoria","Amistoso","Nublado",19,67,7,9,50,3,0
+"Sudáfrica","Cabo Verde",2026-04-25,"Local",2,0,"Victoria","Liga de Naciones","Soleado",26,40,4,6,50,3,0
+"Sudáfrica","Egipto",2026-04-15,"Visitante",0,0,"Empate","Eliminatoria","Nublado",17,68,9,6,50,3,0
+"Sudáfrica","Argelia",2026-04-06,"Visitante",2,2,"Empate","Eliminatoria","Lluvia",22,91,6,8,40,3,0
+"Sudáfrica","República Democrática del Congo",2026-03-26,"Local",3,1,"Victoria","Oficial","Soleado",28,56,7,9,50,2,0
+"Sudáfrica","Noruega",2026-03-13,"Visitante",0,2,"Derrota","Amistoso","Nublado",14,72,4,4,41,0,0
+"Sudáfrica","Curazao",2026-03-03,"Local",1,0,"Victoria","Copa","Lluvia",15,73,7,8,57,1,0
+"Sudáfrica","Portugal",2026-02-21,"Local",1,2,"Derrota","Eliminatoria","Lluvia",24,74,7,5,44,0,2
+"Suecia","Suiza",2026-05-31,"Visitante",0,0,"Empate","Liga de Naciones","Nublado",14,79,7,3,51,2,0
+"Suecia","Bosnia y Herzegovina",2026-05-20,"Visitante",3,1,"Victoria","Amistoso","Soleado",25,50,8,8,51,3,0
+"Suecia","Inglaterra",2026-05-08,"Local",1,0,"Victoria","Liga de Naciones","Caluroso",34,43,5,4,58,1,1
+"Suecia","República Checa",2026-04-26,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",22,72,5,7,45,0,1
+"Suecia","Escocia",2026-04-16,"Local",0,2,"Derrota","Amistoso","Frio",11,52,5,6,53,0,0
+"Suecia","Alemania",2026-04-04,"Local",0,1,"Derrota","Eliminatoria","Soleado",18,70,7,4,54,1,0
+"Suecia","Países Bajos",2026-03-26,"Visitante",2,1,"Victoria","Eliminatoria","Frio",4,72,8,6,37,4,1
+"Suecia","Irak",2026-03-15,"Local",2,0,"Victoria","Liga de Naciones","Nublado",19,57,9,9,43,0,0
+"Suecia","Irán",2026-03-02,"Visitante",0,3,"Derrota","Eliminatoria","Soleado",30,69,6,6,42,0,1
+"Suecia","Curazao",2026-02-18,"Local",2,1,"Victoria","Eliminatoria","Nublado",17,84,3,9,59,2,1
+"Suiza","Austria",2026-05-31,"Visitante",3,0,"Victoria","Eliminatoria","Soleado",24,67,3,11,55,2,1
+"Suiza","Bélgica",2026-05-19,"Local",1,3,"Derrota","Eliminatoria","Frio",13,60,4,5,64,3,0
+"Suiza","Inglaterra",2026-05-08,"Local",2,1,"Victoria","Oficial","Nublado",21,77,7,8,48,1,0
+"Suiza","España",2026-04-26,"Local",1,2,"Derrota","Eliminatoria","Soleado",20,36,6,6,51,0,0
+"Suiza","Noruega",2026-04-17,"Visitante",1,0,"Victoria","Oficial","Frio",14,47,7,5,53,2,1
+"Suiza","Alemania",2026-04-05,"Visitante",1,1,"Empate","Amistoso","Nublado",15,58,6,5,50,0,1
+"Suiza","Croacia",2026-03-24,"Local",1,1,"Empate","Eliminatoria","Nublado",18,77,4,3,53,2,0
+"Suiza","Uzbekistán",2026-03-12,"Local",1,0,"Victoria","Eliminatoria","Caluroso",33,61,6,5,64,0,1
+"Suiza","Uruguay",2026-03-04,"Visitante",1,0,"Victoria","Eliminatoria","Nublado",16,85,6,5,48,0,1
+"Suiza","Jordania",2026-02-20,"Local",0,0,"Empate","Liga de Naciones","Soleado",22,42,6,7,56,1,0
+"Túnez","Argelia",2026-05-30,"Local",0,1,"Derrota","Amistoso","Frio",14,55,7,4,48,1,0
+"Túnez","Cabo Verde",2026-05-18,"Visitante",0,0,"Empate","Eliminatoria","Soleado",29,59,4,5,49,4,1
+"Túnez","República Democrática del Congo",2026-05-06,"Local",0,0,"Empate","Copa","Lluvia",16,78,9,6,48,1,1
+"Túnez","Senegal",2026-04-28,"Visitante",2,2,"Empate","Oficial","Soleado",27,37,8,6,42,1,0
+"Túnez","Sudáfrica",2026-04-14,"Local",2,1,"Victoria","Copa","Nublado",17,71,9,7,47,1,0
+"Túnez","Ghana",2026-04-06,"Visitante",1,1,"Empate","Amistoso","Lluvia",16,82,6,6,47,1,0
+"Túnez","Costa de Marfil",2026-03-26,"Visitante",2,3,"Derrota","Copa","Caluroso",35,32,4,8,38,3,1
+"Túnez","Irak",2026-03-12,"Visitante",0,0,"Empate","Eliminatoria","Nublado",18,84,6,4,44,0,0
+"Túnez","España",2026-03-04,"Local",1,1,"Empate","Eliminatoria","Soleado",18,70,7,5,39,1,1
+"Túnez","Jordania",2026-02-20,"Visitante",3,1,"Victoria","Eliminatoria","Soleado",23,55,4,8,51,1,0
+"Turquía","Países Bajos",2026-05-30,"Visitante",3,1,"Victoria","Liga de Naciones","Soleado",23,35,6,6,51,0,0
+"Turquía","Bélgica",2026-05-19,"Local",0,0,"Empate","Oficial","Lluvia",17,78,6,5,51,1,1
+"Turquía","Croacia",2026-05-08,"Visitante",1,0,"Victoria","Liga de Naciones","Caluroso",34,45,8,7,44,1,0
+"Turquía","Escocia",2026-04-27,"Local",1,1,"Empate","Eliminatoria","Lluvia",15,80,8,4,48,4,0
+"Turquía","España",2026-04-14,"Visitante",0,3,"Derrota","Eliminatoria","Soleado",27,59,6,3,38,1,0
+"Turquía","Austria",2026-04-06,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",20,62,8,8,48,2,0
+"Turquía","Portugal",2026-03-24,"Local",0,2,"Derrota","Oficial","Caluroso",32,31,3,4,44,0,0
+"Turquía","Irak",2026-03-15,"Local",3,1,"Victoria","Eliminatoria","Soleado",28,61,9,10,53,2,0
+"Turquía","Nueva Zelanda",2026-03-02,"Visitante",1,2,"Derrota","Eliminatoria","Nublado",15,60,7,7,47,0,0
+"Turquía","Argentina",2026-02-20,"Visitante",0,2,"Derrota","Eliminatoria","Lluvia",22,90,9,4,41,0,0
+"Uruguay","Paraguay",2026-05-28,"Local",0,0,"Empate","Eliminatoria","Nublado",15,76,9,5,60,2,0
+"Uruguay","Brasil",2026-05-20,"Visitante",0,1,"Derrota","Eliminatoria","Soleado",24,35,4,4,45,0,0
+"Uruguay","Ecuador",2026-05-06,"Local",0,2,"Derrota","Oficial","Soleado",23,58,5,4,57,2,0
+"Uruguay","Argentina",2026-04-28,"Local",2,1,"Victoria","Eliminatoria","Caluroso",30,46,8,5,63,0,0
+"Uruguay","Colombia",2026-04-14,"Local",3,0,"Victoria","Oficial","Soleado",23,50,6,8,51,0,2
+"Uruguay","Catar",2026-04-03,"Visitante",1,1,"Empate","Amistoso","Caluroso",28,55,6,5,57,0,0
+"Uruguay","Alemania",2026-03-25,"Visitante",0,4,"Derrota","Eliminatoria","Soleado",28,41,3,5,47,0,1
+"Uruguay","Escocia",2026-03-12,"Local",1,1,"Empate","Eliminatoria","Soleado",18,51,8,7,56,0,0
+"Uruguay","Croacia",2026-03-03,"Visitante",0,1,"Derrota","Copa","Soleado",21,65,3,7,42,1,0
+"Uruguay","Sudáfrica",2026-02-19,"Local",2,0,"Victoria","Liga de Naciones","Nublado",23,76,6,9,58,1,0
+"Uzbekistán","Jordania",2026-05-29,"Local",0,1,"Derrota","Oficial","Lluvia",18,93,5,4,49,0,2
+"Uzbekistán","Catar",2026-05-17,"Visitante",0,2,"Derrota","Eliminatoria","Lluvia",15,92,9,5,45,0,0
+"Uzbekistán","Japón",2026-05-06,"Visitante",1,0,"Victoria","Eliminatoria","Lluvia",25,82,7,6,47,1,0
+"Uzbekistán","Irak",2026-04-26,"Visitante",4,1,"Victoria","Copa","Frio",5,59,6,11,53,3,0
+"Uzbekistán","Irán",2026-04-16,"Visitante",0,0,"Empate","Liga de Naciones","Soleado",27,62,3,3,43,2,0
+"Uzbekistán","Corea del Sur",2026-04-05,"Local",0,4,"Derrota","Oficial","Caluroso",31,35,5,3,63,1,0
+"Uzbekistán","Arabia Saudita",2026-03-24,"Visitante",0,3,"Derrota","Eliminatoria","Lluvia",21,95,4,3,48,1,0
+"Uzbekistán","Marruecos",2026-03-12,"Local",1,2,"Derrota","Liga de Naciones","Nublado",14,71,9,4,50,2,0
+"Uzbekistán","Suecia",2026-03-04,"Local",1,0,"Victoria","Amistoso","Soleado",20,39,9,5,46,0,0
+"Uzbekistán","Alemania",2026-02-21,"Visitante",0,1,"Derrota","Eliminatoria","Nublado",22,56,5,3,51,1,0
