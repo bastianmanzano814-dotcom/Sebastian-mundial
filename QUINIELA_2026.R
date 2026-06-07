@@ -947,16 +947,14 @@ if (diferencia_prob > 0.15) {
 }
 
 # Over/Under
-interpretacion_goles <- if (prob_over_2p5 > 0.55)
-  "Se espera un PARTIDO CON MUCHOS GOLES (Over 2.5 es más probable)."
-else
-  "Se espera un PARTIDO CON POCOS GOLES (Under 2.5 es más probable)."
+interpretacion_goles <- ifelse(prob_over_2p5 > 0.55,
+  "Se espera un PARTIDO CON MUCHOS GOLES (Over 2.5 es mas probable).",
+  "Se espera un PARTIDO CON POCOS GOLES (Under 2.5 es mas probable).")
 
 # BTTS
-interpretacion_btts <- if (prob_bts > 0.55)
-  "Es probable que AMBOS EQUIPOS ANOTEN al menos un gol."
-else
-  "Es posible que UNO DE LOS EQUIPOS NO LOGRE ANOTAR."
+interpretacion_btts <- ifelse(prob_bts > 0.55,
+  "Es probable que AMBOS EQUIPOS ANOTEN al menos un gol.",
+  "Es posible que UNO DE LOS EQUIPOS NO LOGRE ANOTAR.")
 
 # Forma reciente comparada
 if (stats_L$forma > stats_V$forma + 0.5) {
