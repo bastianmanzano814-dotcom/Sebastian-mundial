@@ -455,7 +455,9 @@ coef_tabla$significancia <- ifelse(coef_tabla[, 4] < 0.001, "***",
                             ifelse(coef_tabla[, 4] < 0.01,  "**",
                             ifelse(coef_tabla[, 4] < 0.05,  "*",
                             ifelse(coef_tabla[, 4] < 0.10,  ".", " "))))
-print(round(coef_tabla, 4))
+cols_num <- sapply(coef_tabla, is.numeric)
+coef_tabla[, cols_num] <- round(coef_tabla[, cols_num], 4)
+print(coef_tabla)
 
 cat("\n  *** p<0.001  ** p<0.01  * p<0.05  . p<0.10\n")
 cat("  R2 ajustado:", round(summary(modelo_regresion)$adj.r.squared, 4), "\n")
