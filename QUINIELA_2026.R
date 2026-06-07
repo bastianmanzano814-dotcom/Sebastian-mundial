@@ -236,11 +236,11 @@ cat("Datos limpios. Filas finales:", nrow(datos), "\n")
 # BLOQUE 7: FUNCIÓN PRINCIPAL - ESTADÍSTICAS POR EQUIPO
 # ============================================================
 # Esta función extrae y calcula todos los indicadores de un
-# equipo usando sus últimos N partidos (por defecto, 10).
+# equipo usando sus últimos N partidos (por defecto, 50).
 # Devuelve una lista con más de 20 métricas que alimentan
 # el modelo de regresión y el proceso estocástico.
 
-calcular_estadisticas_equipo <- function(df, nombre_equipo, n = 10) {
+calcular_estadisticas_equipo <- function(df, nombre_equipo, n = 50) {
 
   # Filtrar solo los partidos de este equipo
   df_eq <- df[df$equipo == nombre_equipo, ]
@@ -626,15 +626,15 @@ cat("\n=== PASO 12: GENERANDO GRAFICAS EN R STUDIO ===\n")
 col_L <- "#1565C0"   # Azul oscuro = local
 col_V <- "#B71C1C"   # Rojo oscuro = visitante
 
-# Últimos 10 partidos de cada equipo
-df_L10 <- stats_L$datos
-df_V10 <- stats_V$datos
-df_L10$num <- seq_len(nrow(df_L10))
-df_V10$num <- seq_len(nrow(df_V10))
-df_L10$equipo_label <- equipo_local
-df_V10$equipo_label <- equipo_visitante
+# Últimos 50 partidos de cada equipo
+df_L50 <- stats_L$datos
+df_V50 <- stats_V$datos
+df_L50$num <- seq_len(nrow(df_L50))
+df_V50$num <- seq_len(nrow(df_V50))
+df_L50$equipo_label <- equipo_local
+df_V50$equipo_label <- equipo_visitante
 
-df_ambos_10 <- rbind(df_L10, df_V10)
+df_ambos_10 <- rbind(df_L50, df_V50)
 
 
 # --- GRAFICA 1: Dispersion goles favor vs goles contra ---
@@ -649,7 +649,7 @@ g1 <- ggplot(df_ambos_10, aes(x = goles_favor, y = goles_contra, color = equipo_
   annotate("text", x = Inf, y = Inf, hjust = 1.1, vjust = 1.5,
            label = "Línea punteada = equilibrio", size = 3, color = "gray40") +
   labs(title    = "Goles Anotados vs Goles Recibidos",
-       subtitle = paste("Últimos 10 partidos |", equipo_local, "vs", equipo_visitante),
+       subtitle = paste("Últimos 50 partidos |", equipo_local, "vs", equipo_visitante),
        x = "Goles Anotados", y = "Goles Recibidos", color = "Equipo") +
   theme_minimal(base_size = 13) +
   theme(plot.title    = element_text(face = "bold", size = 15),
@@ -672,7 +672,7 @@ g2 <- ggplot(df_ambos_10, aes(x = num, y = puntos_partido,
   scale_y_continuous(breaks = c(0, 1, 3),
                      labels = c("Derrota (0)", "Empate (1)", "Victoria (3)"),
                      limits = c(-0.2, 3.3)) +
-  labs(title    = "Forma Reciente — Últimos 10 Partidos",
+  labs(title    = "Forma Reciente — Últimos 50 Partidos",
        subtitle = "Puntos obtenidos por fecha (cronológico de izq. a der.)",
        x = "Partido (de más antiguo a más reciente)",
        y = "Puntos obtenidos",
@@ -699,7 +699,7 @@ g3 <- ggplot(df_long, aes(x = num, y = goles, fill = tipo)) +
   geom_col(position = "dodge", width = 0.7) +
   facet_wrap(~ equipo_label, ncol = 1) +
   scale_fill_manual(values = c("Anotados" = "#1976D2", "Recibidos" = "#D32F2F")) +
-  labs(title    = "Goles Anotados y Recibidos por Partido (Últimos 10)",
+  labs(title    = "Goles Anotados y Recibidos por Partido (Últimos 50)",
        x = "Número de partido (cronológico)",
        y = "Goles",
        fill = NULL) +
@@ -912,7 +912,7 @@ cat(sprintf("  Over  2.5 goles                  : %5.1f%%\n", prob_over_2p5  * 1
 cat(sprintf("  Under 2.5 goles                  : %5.1f%%\n", prob_under_2p5 * 100))
 cat(sprintf("  Ambos equipos anotan (BTTS)      : %5.1f%%\n", prob_bts * 100))
 
-cat("\n--- ESTADISTICAS DE CADA EQUIPO (ultimos 10 partidos) ---\n")
+cat("\n--- ESTADISTICAS DE CADA EQUIPO (ultimos 50 partidos) ---\n")
 cat(sprintf("\n  Variable               %-18s  %-18s\n", equipo_local, equipo_visitante))
 cat(paste0(rep("-", 60), collapse = ""), "\n")
 cat(sprintf("  Prom. goles favor    :  %-18.2f  %.2f\n", stats_L$prom_gf,    stats_V$prom_gf))
